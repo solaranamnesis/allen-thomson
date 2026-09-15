@@ -42,97 +42,27 @@ But, admitting that the evidence from direct experiment is such as entirely to s
 
 *) I may refer to Dr. Bastian's paper in 'Nature' of June 30, 1870, and to his two works, 'The Origin of the Lowest Organisms' and 'The Beginnings of Life,' and papers to Roy. Soc. 1873. Mr. Hartley's researches, which were commenced in 1865, are described in a paper printed in the Proceedings of the Royal Society for 1872, and in his 'Lectures on Air,' 2nd edition, 1876, where an interesting account of the whole subject will be found. The experiments of Mr. Pode, of Oxford, and Professor Ray Lankester are described in a paper on the "Development of _Bacteria_ in Organic Infusions," in the Roy. Soc. Proc. 1873, vol. 21. p. 349. Dr. Burdon Sanderson's researches are contained in the Reports of the Medical Officer of the Privy Council, and in various papers in 'Nature'; Dr. W. Roberts's paper is printed in the Transactions of the Royal Society for 1874, vol. 164. p. 457. Professor Lister's "Contribution to the Germ Theory of Putrefaction and other Fermentative Changes," etc. is contained in the Transactions of the Royal Society of Edinburgh for 1875, p. 313, and is also given in 'Nature.' Professor Tyndall's researches are described in his papers in the Proceedings of the Royal Society during the last two years. The work of Professor Cohn, of Breslau, entitled 'Beiträge zur Biologie der Pflanzen,' 1873-76, contains many memoirs bearing upon this subject, which have been partly published in abstract in the 'Microscopical Journal,' in which also will be found, in a series of contributions extending from 1873 to the present time, the interesting observations of Mr. W. H. Dallinger and Dr. J. Drysdale.
 
-The incompleteness of the geological record leaves us in the dark as to the 
-time at which the first dawnings of life appeared in the lower strata of the 
-earth's surface. The most recent researches tend to carry the origin of life 
-back to a much earlier period than was at one time believed, and (if the 
-famous Eozoon be admitted as evidence) even into that of the Laurentian 
-strata. But if doubts should still prevail with regard to the presence of 
-definite organized forms in the older sedimentary strata, the occurrence in 
-them of carbon in the form of graphite in large quantities makes the previous 
-existence of living organisms at least possible, and it may be that the com- 
-plete metamorphosis which these rocks have undergone has entirely removed 
-all definite traces of organization. 
+The incompleteness of the geological record leaves us in the dark as to the time at which the first dawnings of life appeared in the lower strata of the earth's surface. The most recent researches tend to carry the origin of life back to a much earlier period than was at one time believed, and (if the famous _Eozoon_ be admitted as evidence) even into that of the Laurentian strata. But if doubts should still prevail with regard to the presence of definite organized forms in the older sedimentary strata, the occurrence in them of carbon in the form of graphite in large quantities makes the previous existence of living organisms at least possible, and it may be that the complete metamorphosis which these rocks have undergone has entirely removed all definite traces of organization.
 
-Nor have we the means from geological data of determining whether the 
-beings of the vegetable or of the animal kingdom first made their appearance. 
-If we adopt the view which has for some time been entertained by physio- 
-logists that auimals are entirely dependent, directly or indirectly, on plants 
-for the material which constitutes their living substance, and that plants, as 
-constructive agents, alone have the power to bring together the elements of 
-lifeless matter, from such states as carbonic acid, water, and ammonia, into 
-the condition of the living solid, the inference would be inevitable, at least 
-for the great majority of the animal creation, that they must have been 
-preceded by plants. But palaeontology is as yet silent on this interesting 
-question ; and, if we consider the remarkable approach which is made in 
-structure and properties between the lowest and simplest members of the two 
-kingdoms of organic nature, so that at last all distinction between them 
-seems entirely to vanish, and a set of organisms is found partaking equally 
-of animal and vegetable characters, or, rather, exhibiting properties which 
-are common to them both, we shall hesitate to postulate confidently for the 
-primitive antecedence of vegetable life, although, perhaps, in later epochs the 
-preexistence of vegetables may be looked upon as necessary to the life of 
-more developed animal organisms. 
+Nor have we the means from geological data of determining whether the beings of the vegetable or of the animal kingdom first made their appearance. If we adopt the view which has for some time been entertained by physiologists that animals are entirely dependent, directly or indirectly, on plants for the material which constitutes their living substance, and that plants, as constructive agents, alone have the power to bring together the elements of lifeless matter, from such states as carbonic acid, water, and ammonia, into the condition of the living solid, the inference would be inevitable, at least for the great majority of the animal creation, that they must have been preceded by plants. But palæontology is as yet silent on this interesting question; and, if we consider the remarkable approach which is made in structure and properties between the lowest and simplest members of the two kingdoms of organic nature, so that at last all distinction between them seems entirely to vanish, and a set of organisms is found partaking equally of animal and vegetable characters, or, rather, exhibiting properties which are common to them both, we shall hesitate to postulate confidently for the primitive antecedence of vegetable life, although, perhaps, in later epochs the preexistence of vegetables may be looked upon as necessary to the life of more developed animal organisms.
 
-But while we thus speculate on the first appearance of organized bodies in 
-nature, we ought to keep in mind that we are equally ignorant of the mode 
-of origin of the inorganic elements and their compounds ; and we may 
-therefore he excused if we suspend all theory and conjecture until we shall 
-be guided to more reliable hypotheses through the plain track of observation 
-and experiment. 
+But while we thus speculate on the first appearance of organized bodies in nature, we ought to keep in mind that we are equally ignorant of the mode of origin of the inorganic elements and their compounds; and we may therefore be excused if we suspend all theory and conjecture until we shall be guided to more reliable hypotheses through the plain track of observation and experiment.
 
-The practical applications of the increased knowledge of the origin of 
-minute animal and vegetable organisms are so numerous that it would 
-occupy a much longer time than is at my disposal to give any detailed account 
-of them ; hut they are of such immense importance in their commercial, 
-social, and sanitary relations that they ought never to be lost sight of. 
+The practical applications of the increased knowledge of the origin of minute animal and vegetable organisms are so numerous that it would occupy a much longer time than is at my disposal to give any detailed account of them; but they are of such immense importance in their commercial, social, and sanitary relations that they ought never to be lost sight of.
 
-It is now proved beyond doubt that the origin of putrefaction and fermen- 
-tation is dependent on the presence in the substances which are the seat of 
-change in these processes, or in the surrounding air, of the geiins of minute 
-organisms of an animal or vegetable nature, and that the maintenance of the 
-chemical changes in which these processes mainly consist is coincident with 
-and casually (if not essentially) dependent upon the growth and multiplica- 
-tion of these organisms. 
+It is now proved beyond doubt that the origin of putrefaction and fermentation is dependent on the presence in the substances which are the seat of change in these processes, or in the surrounding air, of the germs of minute organisms of an animal or vegetable nature, and that the maintenance of the chemical changes in which these processes mainly consist is coincident with and casually (if not essentially) dependent upon the growth and multiplication of these organisms.
 
-Professor Lister had the merit of being the first to apply the germ theory 
-of putrefaction to explain the formation of putrid matters in the living body ; 
-and he has founded on this theory the now well-known antiseptic treatment 
-of wounds, the importance of which it would he difficult to overestimate. 
+Professor Lister had the merit of being the first to apply the germ theory of putrefaction to explain the formation of putrid matters in the living body; and he has founded on this theory the now well-known antiseptic treatment of wounds, the importance of which it would be difficult to overestimate.
 
-The success or failure of plans for the preservation of meat and other 
-articles of food without question depends on the possibility of the complete 
-exclusion of the germs which are the cause of putrefaction and fermenta- 
-tion ; and the management of such plans must therefore be founded on the 
-most accurate knowledge of these organisms, and the circumstances influenc- 
-ing the persistence of their vitality and the vigour of their growth. 
+The success or failure of plans for the preservation of meat and other articles of food without question depends on the possibility of the complete exclusion of the germs which are the cause of putrefaction and fermentation; and the management of such plans must therefore be founded on the most accurate knowledge of these organisms, and the circumstances influencing the persistence of their vitality and the vigour of their growth.
 
-The theory of Biogenesis has also lately been the guide in the investigation 
-of the causes of various forms of disease, both in the lower animals and in 
-man, with the result of showing that in many of them the infective substance 
-consists, in all probability, of germs of minute animal or vegetable organisms. 
+The theory of Biogenesis has also lately been the guide in the investigation of the causes of various forms of disease, both in the lower animals and in man, with the result of showing that in many of them the infective substance consists, in all probability, of germs of minute animal or vegetable organisms.
 
-There is very great probability, indeed, that all the Zymotic diseases (by 
-which we understand the various forms of fevers) have their origin in germs. 
-As has been well remarked by Baxter in an able paper on " The Action of 
-Disinfectants," the analogies of action of contagia are similar to those of septic 
-organisms, not to processes simply of oxidation or deoxidation. These orga- 
-nisms, studied in suitable fiuids, multiply indefinitely when introduced in all 
-but infinitesimal proportions. Thus they are, as near as we can perceive, the 
-very essence of contagia*. 
+There is very great probability, indeed, that all the Zymotic diseases (by which we understand the various forms of fevers) have their origin in germs. As has been well remarked by Baxter in an able paper on "The Action of Disinfectants," the analogies of action of contagia are similar to those of septic organisms, not to processes simply of oxidation or deoxidation. These organisms, studied in suitable fluids, multiply indefinitely when introduced in all but infinitesimal proportions. Thus they are, as near as we can perceive, the very essence of contagia.*
 
-* For the most interesting information on this subject, I cannot do better than refer to 
-the very able Papers by Dr. Burdon Sanderson in the ‘ Keports of the Medical Officer 
-of the Privy Council,' 1873, 1874, and 187o. 
+*) For the most interesting information on this subject, I cannot do better than refer to the very able Papers by Dr. Burdon Sanderson in the 'Reports of the Medical Officer of the Privy Council,' 1873, 1874, and 1875.
 
-
-Leaving, however, these and manj' other general questions regarding the 
-origin of the lowest forms of animal and vegetable life, let us now turn 
-our attention to the mode of development of a new being in those possessing 
-more obvious and known germs. The general nature of the formative pro- 
-cess, in all instances where fertilized germs are produced, will he best un- 
-derstood by a short sketch of the phenomena ascertained to occur in different 
-kinds of plants. 
+Leaving, however, these and many other general questions regarding the origin of the lowest forms of animal and vegetable life, let us now turn our attention to the mode of development of a new being in those possessing more obvious and known germs. The general nature of the formative process, in all instances where fertilized germs are produced, will be best understood by a short sketch of the phenomena ascertained to occur in different kinds of plants.
 
 In the higher or phanerogamic plants it is generally well known that the 
 combination of two parts of the flower is necessary to the production of a seed 
