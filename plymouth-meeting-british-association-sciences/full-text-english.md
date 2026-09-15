@@ -1,0 +1,1178 @@
+# Address delivered at the Plymouth meeting of the British Association for the Advancement of Science, August 15, 1877.
+
+## By Professor Allen Thomson, M. D., LL. D., F. R. S., F. R. S. E., President.
+
+After the long interval of six and thirty years the British Association for the Advancement of Science holds its annual meeting, the forty-seventh since its foundation, in this beautiful and interesting locality; and, it so happens that, on this occasion as on the former, it passes from Glasgow to Plymouth. We are delighted to be assembled here, and are even surprised that the Association has been able so long to resist the power of attraction by which it has been gravitating towards this place. While we are prepared to be charmed with the surpassing beauty of its scenery, and know the deep interest of its prehistoric vestiges, its historic memories, and its artistic associations, we have been frequently reminded of its scientific vigilance by the records of its active work; and we are now ready and anxious to witness all we can behold of its energy and success in the application of scientific discovery to the practical arts. Should we, as might be expected in a place hitherto so famous in its relations to our naval and military history, find most prominent that relating to the mechanism of war, we shall still hope that the attainment of greater perfection in the engines of destruction may only be the means of rendering peace more permanent and secure.
+
+It is a source of regret to myself, and may be, I fear, a cause of detriment to this Meeting, that the choice of a President should have fallen upon one whose constant occupation with special branches of science has fitted him very inadequately for the distinguished position to which he has been called. I can only derive comfort from knowing that, wherever it may be necessary, there are many others present most able to supply what may be wanting on my part; and I must therefore at once bespeak their assistance and your indulgence.
+
+I have selected for the subject of the remarks which I am about to offer a biological topic, namely, the "Development of the Forms of Animal Life," with which my studies have been occupied, and which has important bearings on some of the more interesting biological questions now agitating the scientific world. But before proceeding with the discussion of my special subject, it is my desire to call your attention shortly to the remarkable change in the manner of viewing biological questions which has taken place in this country during the last half-century --- a change so great, indeed, that it can scarcely be fully appreciated except by those who, like myself, have lived through the period of its occurrence.
+
+In the three earlier decades of this century it was the common belief, in this country at least, shared by men of science as well as by the larger body of persons who had given no special attention to the subject, that the various forms of plants and animals recognized by naturalists in their systematic arrangements of genera and species were permanently fixed and unalterable, that they were not subject to greater changes than might occur as occasional variations, and that such was the tendency to the maintenance of uniformity in their specific characters that, when varieties did arise, there was a natural disposition to return, in the course of succeeding generations, to the fixed form and nature supposed to belong to the parental stock; and it was also a necessary part of this view of the permanency of species that each was considered to have been originally produced from an individual having the exact form which its descendants ever afterwards retained. To this scientific dogma was further added the quasi-religious view that in the exercise of infinite wisdom and goodness, the Creator, when He called the successive species of plants and animals into existence, conferred upon each precisely the organization and the properties adapting it best for the kind of life for which it was designed in the general scheme of creation. This was the older doctrine of "Direct Creation," of "Final Causes," and of "Teleological Relation of Structure and Function;" and those only who have known the firm hold which such views formerly had over the public mind can understand the almost unqualified approbation with which the reasoning on these questions in writings like the 'Bridgewater Treatises' (not to mention older books on Natural Theology) were received in their time, as well as the very opposite feelings excited by every work which seemed to present a different view of the plan of creation.
+
+On the Continent of Europe, it is true, some bold speculators, such as Goethe, Oken, Lamarck, and Geoffroy St.-Hilaire, had, in the end of the last and commencement of this century, broached the doctrine that there is in living beings a continuous series of gradations as well as a consistent and general plan of organization, and that the creation, therefore, or origin of the different forms of plants and animals must have been the result of a gradual process of development or of derivation one from another, the whole standing connected together in certain causal relations. But in Britain such views, though known and not altogether repulsive to a few, obtained little favour, and, by some strange process of reasoning, were looked upon by the great majority as little short of impious questionings of the supreme power of the Almighty.
+
+How different is the position of matters in this respect in our day! --- when the cautious naturalist receives and adopts with the greatest reserve the statement of fixed and permanent specific characters as belonging to the different forms of organized beings, and is fully persuaded of the constant tendency to variation which all species show even in the present condition of the earth, and of the still greater liability to change which must have existed in the earlier periods of its formation --- when the belief prevails that, so far from being the direct product of distinct acts of creation, the various forms of plants and animals have been gradually evolved in a slow gradation of increasing complexity --- and when it is recognized by a large majority of naturalists that the explanation of this wonderful relation of connexion between previously existing and later forms is to be found in the constant tendency to variation during development and growth, and the perpetuation of such variations by hereditary transmission through successive generations in the long but incalculable lapse of the earth's natural mutations. These, together with the adaptation of structure and function to external conditions securing the survival of the fittest, are, as you must all be aware, in their essential features the views now known as Darwinism, first simultaneously brought forward by Wallace and Darwin in 1858, and which, after being more fully elaborated in the works of the latter and ably supported by the former, secured, in the incredibly short space of ten or twelve years, the general approval of a large portion of the scientific world. Opinion has, in fact, now undergone such a change that there are few works on Natural History, whether of a special or more general character, in which the relation the scientific facts bear to the newer doctrines is not carefully indicated; that, with the general public also, the words "Evolution" and "Development" have ceased to excite the feelings, amounting almost to horror, which they at first produced in the minds of those to whom they were equally unfamiliar and suspicious; and that, even in popular literature, illustrations are not unfrequently drawn in such terms of Darwinian theory as "struggle for existence," "natural selection," "survival of the fittest," and the like.
+
+It cannot be doubted that in this country, and partly on the Continent, the influence of authority had much to do with the persistence of the older teleological views; and, as has been well remarked by Haeckel, one of the ablest and keenest supporters of the modern doctrine, the combined influence more especially of the opinions held by three of the greatest naturalists and biologists who have ever lived, Linnæus, Haller, and Cuvier (men unsurpassed in the learning of their time, and the authors of important discoveries in a wide range of biological science), was decidedly adverse to the free current of speculative thought upon the more general doctrines of biology. And if it were warrantable to attribute so great a change of opinion as that to which I have adverted as occurring in my own time to the influence of any single intellect, it must be admitted that it is justly due to the vast range and accuracy of his knowledge of scientific facts, the quick appreciation of their mutual interdependence, and, above all, the unexampled clearness and candour in statement of Charles Darwin.
+
+But while we readily acknowledge the large share which Darwin has had in guiding scientific thought into the newer tracks of biological doctrine, we shall also be disposed to allow that the slow and difficult process of emancipation from the thraldom of dogmatic opinion in regard to a system of creation, and the adoption of large and independent views more consistent with observation, reason, philosophy, and religion, has only been possible under the effect of the general progress of scientific knowledge and the acquisition of sounder methods of applying its principles to the explanation of natural phenomena.
+
+I have already referred to Goethe, Oken, Lamarck, and Geoffroy St.-Hilaire as among the most prominent of the earlier pioneers in the modern or reformed conceptions of biological laws. But were it desirable to mark the progress of opinion by quoting other authors and labourers whose contributions have mainly supplied the materials out of which the new fabric has been constructed, I should have to produce a long catalogue of distinguished names, among which would be found those of Lyell and Owen, as earliest shaping the doctrines and guiding opinion in this country, Johannes Müller and Von Baer, as taking the places of Haller and Cuvier on the Continent, and a host of other faithful workers in Biology belonging to the earlier part of this century, such as G. Treviranus, J. F. Meckel, Carus, and many more.* To Huxley more especially and Herbert Spencer the greatest influence on British thought in the same direction is to be ascribed.
+
+Let us hope that in these times, when it has been found necessary to modify the older teleological views to so great an extent, although there may still be much that is unknown, and wide differences of opinion in regard to the nature and sequence of natural phenomena and the mode of their interpretation, all naturalists will now concur in one important principle, viz. that as truthful observation and candid judgment must alone be our guides in the interpretation of Nature, that theory of Creation is best deserving of our adoption which is most consistent with the whole body of facts carefully observed and compared.
+
+*) It would also be unjust to omit to mention here one of the earliest attempts to bring British opinion into a new channel, by the remarkable work entitled 'Vestiges of Creation,' which appeared in 1844, nor to conceal from ourselves the unmerited ridicule and obloquy attempted to be thrown upon the author, not perhaps so much on account of the many inaccuracies unavoidable in the endeavour at that time to overtake so large a field, as directed against the dangerous tendencies supposed to lurk in its reasoning.
+
+To attempt to trace, within the limits to which my remarks must be confined, the influence which the progress of knowledge has exercised upon the scientific and general conception of biological doctrines would be impossible, for the modification of opinion on these subjects has proceeded not less from the rapid advance which our age has witnessed in the progress of general science, especially of physics and chemistry, than from that in the department of biology itself.
+
+Thus, to go no further than the most general laws of nature, the whole doctrine of the conservation and transmutation of force in physics, so ably expounded to this Association by Mr. Justice Grove, the theory of compound radicals and substitution, with the discovery of organic synthesis, in chemistry, and the more recent advance in speculation with regard to the molecular constitution and properties of matter, with which we must associate the names of our last President and of Clerk Maxwell, in completely changing the aspect of physical and chemical sciences within the last thirty-five years, have paved the way for views of the constitution and action of organized bodies very different from those which could be formed at the time of the first Meeting of the Association in this place. And if, confining ourselves to the department of Biology, we note the discovery by microscopical observation of the minuter elementary forms of organization, more especially as flowing from the comprehensive views of organized structure promulgated by Schleiden and Schwann nearly forty years ago, the later discovery and investigation of living protoplasmic substances, the accumulated evidence of progressive and continuous types of animal and vegetable forms in the succession of superimposed strata composing the crust of the earth, the recent discoveries as to the conditions of life at great depths in the ocean, the vast body of knowledge brought together by the labours of anatomists and physiologists as to the structure and functions of almost every plant and animal, and (still more, perhaps, than any other single branch of biological inquiry) if we note the rapid and immense progress which has been made during the last fifty years in the study of the entirely modern science of the development of individual living beings, we shall be able to form some conception of the enormous extension in our time of the basis of observation and fact from which biological phenomena may now be surveyed, and from which just views may be deduced as to their mutual relations and general nature.
+
+It is now familiarly known that almost all (if not, indeed, all) the plants and animals existing on the earth's surface derive their origin from parents or previously existing beings whose form and nature they closely reproduce in their life's history. By far the greater number spring from germs in the form of visible and known spores, seeds, or eggs; a few may be traced to other germs, or to vestiges of the parental body, the exact nature of which may be doubtful; and some, including even a certain number of those also produced from known germs, are either constantly or occasionally multiplied by budding, or by a process of cleavage or direct and visible division of the parent body.
+
+The germ constituting the basis of new formation, whether it be of unknown nature or in the form of spore, seed, or ovum, is of the simplest kind of organization, and the process by which a new plant or animal is produced is necessarily one of gradual change and of advance from a simpler to a more complex form and structure: it is one of "evolution" or, more appropriately named of "development." But before proceeding to discuss the subject of development in beings of which the germs are known, it is right to advert to the preliminary and often debated question, which naturally presents itself, viz.:--- Do all living or organized beings, without exception, spring from germs, or from any kind of organized matter that has belonged to parents? or may there not be some, especially among the simpler forms (with regard, indeed, to which alone there has of late been any question), which are produced by the direct combination of their component elements, in the way of the so-called spontaneous or equivocal generation, heterogenesis or abiogenesis?
+
+The importance of the right solution of this problem is not confined merely to the discovery of the mode of origin of the lowly organisms which have been the more immediate object of investigation by naturalists in recent times, but is one of much wider significance, seeing that, if it shall be satisfactorily proved or even rendered probable that in the course of cosmical development all the various kinds of plants and animals have been gradually produced by evolution out of preexisting simpler forms, and thus the whole series of organized beings in nature is shown to be one of hereditary connexion and derivation, then it would follow that the history of the origin of the simplest organisms may be the key to that of the first commencement of life upon the earth's surface, and an indication of the relation in which the whole succeeding progenies stand to their parental stocks.
+
+From the very lucid and masterly view of this subject given by Prof. Huxley in his Address to the Association at Liverpool, so recently as in 1870, in which the conclusion he formed was mainly based on the exhaustive and admirable researches of Pasteur, I might have dispensed with making further reference to it now, but for the very confident statements since made by the supporters of the doctrine of abiogenesis, among whom Dr. Bastian stands most prominent in this country, and for the circumstance that the life-history of many of the lower organisms was still imperfectly known.
+
+During the last seven or eight years, however, renewed investigations by most competent inquirers have followed one another in quick succession, from a review of which we cannot but arrive at a conclusion adverse to the theory of heterogenesis, namely, that no development of organisms, even of the most simple kind, in fermenting or putrefying solutions, has been satisfactorily observed to occur when the conditions of the experiments were such as entirely to exclude the possibility of their being descended from germs, or equivalent formative particles, belonging to preexisting bodies of a similar kind. I can do no more here than name the authors of the most couclusive experiments on this subject, nearly in the order of their publication, as those of Mr. W. N. Hartley in 1872, Messrs. Pode and Ray Lankester in 1873, Dr. Burdon Sanderson in that and the following years. Dr. W. Roberts in 1874, Professor Lister in 1875, and most recently of Professor Tyndall, Professor Cohn, and of Messrs. Dallinger and Drysdale.*
+
+But, admitting that the evidence from direct experiment is such as entirely to shut us out from entertaining the view that spontaneous generation occurs in the present condition of the earth, we are not relieved from the difficulty of explaining how living organisms or their germs first made their appearance, nor are we debarred from attempting to form hypotheses as to how this may have taken place. First, upon the theory of Evolution, which, strictly carried out, supposes the more complex organisms to be derived from the more simple, it might be held that the conditions affecting the combination of the primary elements of matter into organic forms may at one time have been different from those which now prevail, and that, under those different conditions, abiogenesis may have been possible, and may have operated to lay the foundations of organic life in the simpler forms in whieh it at first appeared --- a state of things, however, which can only be vaguely surmised, and in regard to which no exact information can be obtained. Or, secondly, evading the difficulty of strict cosmical evolution, we might suppose that vital conditions may have been coeval with the first existence of physical and chemical properties in the rest of natural bodies. But this hypothesis would be exposed to the objection that, according to the cosmical view generally held by physicists, the whole materials composing the earth have originally been subjected to incandescent heat. Nor is the difficulty abolished, but only removed to a more remote period, by the supposition of the transport of germs from another planet or their introduction by means of meteorites or meteoric dust; for, besides the objection arising from the circumstance that these bodies must have been subjected to a very high temperature, we should still have every thing to learn as to the manner in which the germs originated in the far distant regions of space from which they have been conveyed.
+
+*) I may refer to Dr. Bastian's paper in 'Nature' of June 30, 1870, and to his two works, 'The Origin of the Lowest Organisms' and 'The Beginnings of Life,' and papers to Roy. Soc. 1873. Mr. Hartley's researches, which were commenced in 1865, are described in a paper printed in the Proceedings of the Royal Society for 1872, and in his 'Lectures on Air,' 2nd edition, 1876, where an interesting account of the whole subject will be found. The experiments of Mr. Pode, of Oxford, and Professor Ray Lankester are described in a paper on the "Development of _Bacteria_ in Organic Infusions," in the Roy. Soc. Proc. 1873, vol. 21. p. 349. Dr. Burdon Sanderson's researches are contained in the Reports of the Medical Officer of the Privy Council, and in various papers in 'Nature'; Dr. W. Roberts's paper is printed in the Transactions of the Royal Society for 1874, vol. 164. p. 457. Professor Lister's "Contribution to the Germ Theory of Putrefaction and other Fermentative Changes," etc. is contained in the Transactions of the Royal Society of Edinburgh for 1875, p. 313, and is also given in 'Nature.' Professor Tyndall's researches are described in his papers in the Proceedings of the Royal Society during the last two years. The work of Professor Cohn, of Breslau, entitled 'Beiträge zur Biologie der Pflanzen,' 1873-76, contains many memoirs bearing upon this subject, which have been partly published in abstract in the 'Microscopical Journal,' in which also will be found, in a series of contributions extending from 1873 to the present time, the interesting observations of Mr. W. H. Dallinger and Dr. J. Drysdale.
+
+The incompleteness of the geological record leaves us in the dark as to the 
+time at which the first dawnings of life appeared in the lower strata of the 
+earth's surface. The most recent researches tend to carry the origin of life 
+back to a much earlier period than was at one time believed, and (if the 
+famous Eozoon be admitted as evidence) even into that of the Laurentian 
+strata. But if doubts should still prevail with regard to the presence of 
+definite organized forms in the older sedimentary strata, the occurrence in 
+them of carbon in the form of graphite in large quantities makes the previous 
+existence of living organisms at least possible, and it may be that the com- 
+plete metamorphosis which these rocks have undergone has entirely removed 
+all definite traces of organization. 
+
+Nor have we the means from geological data of determining whether the 
+beings of the vegetable or of the animal kingdom first made their appearance. 
+If we adopt the view which has for some time been entertained by physio- 
+logists that auimals are entirely dependent, directly or indirectly, on plants 
+for the material which constitutes their living substance, and that plants, as 
+constructive agents, alone have the power to bring together the elements of 
+lifeless matter, from such states as carbonic acid, water, and ammonia, into 
+the condition of the living solid, the inference would be inevitable, at least 
+for the great majority of the animal creation, that they must have been 
+preceded by plants. But palaeontology is as yet silent on this interesting 
+question ; and, if we consider the remarkable approach which is made in 
+structure and properties between the lowest and simplest members of the two 
+kingdoms of organic nature, so that at last all distinction between them 
+seems entirely to vanish, and a set of organisms is found partaking equally 
+of animal and vegetable characters, or, rather, exhibiting properties which 
+are common to them both, we shall hesitate to postulate confidently for the 
+primitive antecedence of vegetable life, although, perhaps, in later epochs the 
+preexistence of vegetables may be looked upon as necessary to the life of 
+more developed animal organisms. 
+
+But while we thus speculate on the first appearance of organized bodies in 
+nature, we ought to keep in mind that we are equally ignorant of the mode 
+of origin of the inorganic elements and their compounds ; and we may 
+therefore he excused if we suspend all theory and conjecture until we shall 
+be guided to more reliable hypotheses through the plain track of observation 
+and experiment. 
+
+The practical applications of the increased knowledge of the origin of 
+minute animal and vegetable organisms are so numerous that it would 
+occupy a much longer time than is at my disposal to give any detailed account 
+of them ; hut they are of such immense importance in their commercial, 
+social, and sanitary relations that they ought never to be lost sight of. 
+
+It is now proved beyond doubt that the origin of putrefaction and fermen- 
+tation is dependent on the presence in the substances which are the seat of 
+change in these processes, or in the surrounding air, of the geiins of minute 
+organisms of an animal or vegetable nature, and that the maintenance of the 
+chemical changes in which these processes mainly consist is coincident with 
+and casually (if not essentially) dependent upon the growth and multiplica- 
+tion of these organisms. 
+
+Professor Lister had the merit of being the first to apply the germ theory 
+of putrefaction to explain the formation of putrid matters in the living body ; 
+and he has founded on this theory the now well-known antiseptic treatment 
+of wounds, the importance of which it would he difficult to overestimate. 
+
+The success or failure of plans for the preservation of meat and other 
+articles of food without question depends on the possibility of the complete 
+exclusion of the germs which are the cause of putrefaction and fermenta- 
+tion ; and the management of such plans must therefore be founded on the 
+most accurate knowledge of these organisms, and the circumstances influenc- 
+ing the persistence of their vitality and the vigour of their growth. 
+
+The theory of Biogenesis has also lately been the guide in the investigation 
+of the causes of various forms of disease, both in the lower animals and in 
+man, with the result of showing that in many of them the infective substance 
+consists, in all probability, of germs of minute animal or vegetable organisms. 
+
+There is very great probability, indeed, that all the Zymotic diseases (by 
+which we understand the various forms of fevers) have their origin in germs. 
+As has been well remarked by Baxter in an able paper on " The Action of 
+Disinfectants," the analogies of action of contagia are similar to those of septic 
+organisms, not to processes simply of oxidation or deoxidation. These orga- 
+nisms, studied in suitable fiuids, multiply indefinitely when introduced in all 
+but infinitesimal proportions. Thus they are, as near as we can perceive, the 
+very essence of contagia*. 
+
+* For the most interesting information on this subject, I cannot do better than refer to 
+the very able Papers by Dr. Burdon Sanderson in the ‘ Keports of the Medical Officer 
+of the Privy Council,' 1873, 1874, and 187o. 
+
+
+Leaving, however, these and manj' other general questions regarding the 
+origin of the lowest forms of animal and vegetable life, let us now turn 
+our attention to the mode of development of a new being in those possessing 
+more obvious and known germs. The general nature of the formative pro- 
+cess, in all instances where fertilized germs are produced, will he best un- 
+derstood by a short sketch of the phenomena ascertained to occur in different 
+kinds of plants. 
+
+In the higher or phanerogamic plants it is generally well known that the 
+combination of two parts of the flower is necessary to the production of a seed 
+containing the embryo or young plant. Beginning with the discovery of the 
+pollen-tubes by Amici in 1823, the careful and minute investigations of a long 
+line of illustrious vegetable physiologists have brought to light the details of 
+the process by which fertilization is effected, and have shown, in fact, how the 
+minute tube developed from the inner membrane of the poUen-granule, as 
+soon as it falls upon the stigmatic tissue of the seed-hearing plant, insinuates 
+itself by a rapid process of development between the cells of the style, and 
+reaches at last the ovule, in the interior of which is the embryo-sac ; how, 
+having passed into the micropyle or orifice of the ovule, it makes its way 
+to the embryo-sac ; how a minute portion of the fertilizing substance of 
+the foviUa transudes from the pollen-tube into the cavity of the embryo-sac, 
+in which by this time a certain portion of the protoplasm has become differ- 
+entiated into the germinal vesicle --- thereby stimulating it to further growth 
+and development, the earliest phenomena of which manifest themselves by 
+the formation of an investing cell- wall, and by the occurrence of cell-division 
+which results in the formation of the embryo or plantule of the seed. 
+
+Thus it appears that the essential part of the process of production in pha- 
+nerogamic plants is the formation in the parent plant of cells of two different 
+kinds, which by themselves have little or no independent power of further 
+growth, but which, by their union, give rise to a product in which the power 
+of development is raised to the highest degree. 
+
+By further researches it is now known that the same law prevails in aU the 
+remaining members of the vegetable kingdom, with the exception only of the 
+very simplest forms*. 
+
+In viewing the reproductive process in the series of Cryptogamic plants, 
+two facts at once strike us as remarkable in the modifications which are 
+observed to accompany the formation of a productive germ, viz. : --- first, that 
+the difference between the two productive elements becomes more prominent, 
+or as it were more highly specialized, in the Cryptogamic than in the Pha- 
+nerogamic plants ; and second, that in the simpler and lower forms this differ- 
+ence gradually disappears till it is lost in complete uniformity of the pro- 
+ductive elements. 
+
+^ It will be observed that I leave entirely out of view the whole subject of the multipli- 
+cation of plants by budding or simple division. 
+
+Thus in the whole tribe of the Ferns and Vascular Cryptogams, in the 
+higher Algae and Fungi, in the Characeae and in the Mosses, the difl'erentia- 
+tion of the productive elements is carried to a very high degree ; for while 
+that belonging to the embryo or germ presents the structure of a simple cell 
+which remains at rest, or in a comparatively passive state, and, absorbiiig 
+into itself the substance of the other, becomes the seat of subsequent 
+development, the other, corresponding to the pollen of the staminiferous 
+phanerogam, is usually separated from the place of its formation, and, having 
+undergone a peculiar modification of structure by which it acquires active 
+moving cilia, it changes place and is directed towards the germinal structure, 
+and, coming in contact with its elementary cell, is more or less absorbed or 
+lost in the fertilizing process. The protoplasm of the germinal ceU thus 
+acted on and fertilized then proceeds to undergo the changes of development 
+by which the foundation is laid for the new plant. 
+
+In the Algae and Fungi, however, there are gradations of the differentiation 
+of the two reproductive elements which are of the greatest interest in lead- 
+ing to a comprehension of the general nature of the formative process. For 
+in the lower and simpler forms of these plants, such as the Desmidieae, Meso- 
+carpeae, and other Conjugatae, we find that there is no distinction in structure 
+or form to be perceived between the two cells which unite in what is termed 
+conjugation ; and a complete fusion or intermixture of the two masses of 
+protoplasm results in the production of a single, usually spherical, mass holding 
+the place of an embryo. And that there is an absence of specialization be- 
+tween the two uniting cells is clearly shown, in both Desmidium and Meso- 
+carpus, by the fact that the embryo or zygospore is formed in the mass 
+resulting from the union of the protruded portions of the two cells ; while 
+in more ordinary cases, as in Spirogyra, where the embryo is formed in 
+one of the two cells, it seems to be indifferent in which of them it is 
+formed. 
+
+From this, which may be regarded as the most elementary tj^pe of new 
+production by the union of two cells, the transition is not a great one to 
+the development of a progeny without any such union. We might conjecture, 
+then, that the capacity for separate or individual existence extends in the 
+lowest organisms to the whole or to each structural element of their organi- 
+zation, while as we rise in the scale of vegetable life (and the same view 
+might apply to the animal kingdom) this capacity is more and more divided 
+between the two productive elements, or, at least, is only called into full 
+action by their combination. 
+
+The germinal element of plants thus consists of a simple primordial cell, 
+varying in different kinds, but in all of them probably containing the essential 
+substance protoplasm ; and the most immediate result or effect of fertilization 
+is the multiplication by repeated fissiparous division of the previously existing 
+cells. The new individual resulting from this cellular growth usually remains 
+
+
+within the iiarent body, without, however, direct union or continuity of tissue, 
+till the embryo has attained some advancement, as in the well-known case of 
+the seeds of a phanerogam ; but there are many varieties in the mode of its 
+disposition among the lower plants. 
+
+A remarkable exception to the more direct relation of the process of ferti- 
+lization to the formation of the new individual or embryo occurs in some 
+plants, simulating in some respects that kind of variation in animal reproduc- 
+tion which has been named alternate generation. A well-known instance of 
+this is observed in the Vascular Cryptogams. The prothallium of the Ferns, 
+for example, results from the development 'of so-called spores or unicellular 
+buds, which are familiar as being formed in small capsules on the lower leaf- 
+surface ; and in this prothallium, when it has reached a certain stage of vege- 
+tation, there are formed the archegonia, containing the oospheres or germ- 
+cells, which are fertilized by the moving ciliated particles developed in the 
+cells of the antheridia, the process resulting in the production of a new 
+spore-bearing frond or fern-plant. 
+
+Recent researches have also called attention to the remarkable arrange- 
+ments in many Phanerogamic plants for the prevention of fertilization of the 
+pistils by pollen from the same flower, or even from the same plant. In the 
+latter case this is effected by the separation of stamens and pistils in different 
+flowers. In the former case, where both organs occur in the same flower, 
+the adaptations, whether of a mechanical or of a physiological character, by 
+which self-fertilization is prevented, as ascertained by numerous recent inves- 
+tigations (among which those of Darwin are most conspicuous), are of the 
+most varied and often the most complicated kind. 
+
+Let us now turn to the consideration of the Development of Animals ; 
+and let me say in the outset that it will be necessary for me to conflne my 
+remarks chiefly to the higher or vertebrated animals, and to certain parts 
+only of the history of their development --- more particularly the structure and 
+formation of the ovum or egg, some of its earlier developmental changes, and 
+the relation of these to the formation of the new animal. 
+
+I cannot enter upon the consideration of this topic without adverting to 
+the very recent acquisition of some of the most important facts upon which 
+this branch of knowledge is founded; and I feel it to be peculiarly appropriate, 
+in the year of his death, to refer to a Biologist whose labours contributed 
+more powerfully than those of any other person to give to animal embryology 
+the character of a systematic branch of science, and to whom we owe some 
+most important original discoveries --- I mean Karl Ernest von Baer of 
+Konigsberg, Sti Petersburg, and Dorpat. 
+
+Of observers who, previous to Von Baer, were mainly instrumental in 
+preparing the way for the creation of a more exact modern science of embry- 
+ology only two can l)e mentioned, viz. Caspar Frederick Wolfl' of St. Peters- 
+
+burg, well knowu as the author of a work entitled ‘ Theoiia Generationis,' 
+published iu 1759, by which the epiyemsis or actual formation of organs 
+in a new being was first demonstrated, and Christian Pander, who, by his 
+researches made at Wurzburg, explained, in a work published in 1817, the 
+principal changes by which the embryo arises and is formed. 
+
+Von Baer was born in the Eussian province of Esthonia on the 29th of 
+February, 1792. After having been fifteen years Professor in the Prussian 
+University of Konigsberg, he was called to St. Petersburg, and having some 
+years later been appointed to a newly established professorship of Compara- 
+tive Anatomy and Physiology, he remained in that city for nearly thirty years 
+as the most zealous and able promoter of scientific education and research, 
+stimulating and guiding all around him by his unexampled activity, compre- 
+hensive and original views, sound judgment, and cordial cooperation. In 
+1868, at the age of 76, he retired to Dorpat, from the University of which 
+he had received his degree in 1814, and continued still to occupy himself with 
+working and writing in his favourite subjects, as well as interesting himself 
+in every thing connected with educational and scientific progress, to very 
+near the time of his death, which occurred on the 28th of November, 1876, 
+in his 85th jnar. 
+
+Although Von Baer's researches, according to the light in which we may 
+now view them, contributed in no small degree to the introduction of the 
+newer views of the morphological relations of organic structure which have 
+culminated in the Theory of Descent, jmt he was unwilling to adopt the views 
+of Darwin ; and one of his latest writings, completed in the last jmar of his 
+life, was in vigorons opposition to that doctrine. 
+
+It would have been most interesting and instructive to trace the history of 
+the progress of discovery iu Embryology from the period of Von Baer down 
+to the present time ; but such a history would not be suitable to the purpose 
+of this address ; and I can only venture here, in addition to Eathke, the 
+colleague of Baer in Konigsberg, to select two names out of the long list of 
+distinguished workers in this field during the last forty years,viz. : --- Theodor F. 
+"i'f. von Bischoff, of Giessen and Munich, to whom we owe the greatest progress 
+in the knowledge of the development of Mammals, by his several memoirs, 
+appearing from 1842 to 1854; andEobert Eemak, of Berlin, whose researches 
+on the development of Birds and Batrachia, appearing from 1850 to 1855, 
+gave greatly increased exactness and extension to the general study of deve- 
+lopment. 
+
+The germinal element from which, when fertilized, the new animal is 
+derived is contained within the animal ovum or egg --- a compact and definite 
+mass of organic matter, in which, notwithstanding great apparent variations, 
+there is maintained throughout all the members of the animal kingdom, 
+excepting the Protozoa, which are destitute of true ova, a greater uniformity 
+in some respects than belongs to the germinal product of plants. 
+
+Usually more or less spherical in form, the animal ovum presents the 
+essential characters of a " complete cell," in the signification given by Schwann 
+to that term. The germinal substance is enclosed by an external vesicular 
+membrane or cell-wall. Within this covering the cell-substance (generally 
+named yolk or vitellus, from the analogy of the fowl's egg) consists, to a greater 
+or less extent, of a mass of protoplasm ; and imbedded in this mass, in a deter- 
+minate situation, there is found a smaller internal vesicular body, the germi- 
+nal vesicle or nucleus, and within that the somewhat variable macula or 
+nucleolus. 
+
+Now the first thing which strikes us as remarkable connected with the 
+ovum is the very great variation in its size as compared with the entire animal 
+to which it belongs, while in aU of them the same simple or elementary struc- 
+ture is maintained. The ovum of mammals, for example (discovered by Von 
+Baer in 1827) is a comparatively small body, of the average diameter of 
+about of an inch, and consequently scarcely weighing more than a 
+minute fraction of a grain, perhaps not more than the part. And 
+
+further, in two animals differing so widely in size as the elephant and the 
+mouse, the weights of which may stand towards each other in the proportion 
+of 150,000 to 1, there is scarcely any difference in the size of the mature 
+ovum. 
+
+On the other hand, if we compare this small ovum of the mammal with 
+the yolk of the egg in the common fowl, the part to which it most nearly 
+corresponds, it may be estimated that the latter body would contain above 
+three millions of the smaller ova of a mammal. 
+
+The attribute of size, however, in natural objects ceases to excite feelings 
+of wonder or surprise as our knowledge of them increases, whether that be 
+by familiar observation or by more scientific research. We need not, at all 
+events, on account of the apparent minuteness of the ovum of the mammifer 
+or of any other animal, have any doubts as to the presence of a sufficient amount 
+of germinal substance for explaining in the most materialistic fashion the 
+transmission of the organic and other properties and resemblances between the 
+parent and offspring. For we are led to believe, by those who have recently 
+given their attention to the sixe of molecules composing both living and dead 
+matter, that in such a body as this minute ovum of the mammal there may 
+he as many as five thousand billions of molecrdes ; and even if we restrict 
+ourselves to the smaller genninal vesicle, and, indeed, to the smallest germinal 
+particle which might he made visible by the highest microscopic enlargement, 
+there are still sufficient molecules for all the requirements of the most exact- 
+ing material biologist *. 
+
+* According to a calculation made by Mr. Sorby, the number of molecules in the ger- 
+minal vesicle of the mammalian ovum is such that if one molecule were to be lost in every 
+second of time, the whole would not be exhausted in seventeen years. See Address to the 
+Micro.scopic Society, in Journ. of Microscop. Science, vol. xv. p. 22.5, and ‘ Nature,' vol. 
+xiii. p. 332. See also Darwin on "Pangenesis," in his work on ‘Variations,' &c. (1868), 
+
+This great disparity of size, however, is connected with an important 
+difference in the disposition of the yolk-suhstance, according to which 
+ova may be distinguished as of two kinds --- the large- and the small-yolked 
+ova, between which there are also many intennediato gradations. The 
+larger-yolked ova belong to the whole tribe of birds, scaly reptiles, osseous 
+and cartilaginous fishes, and the Cephalopods among the Invertebrates ; and 
+are distinguished by the strictly germinal part or protoplasm being collected 
+into a small disk, known familiarly as the cicatricida of the fowl's egg, and 
+to be seen as a whitish spot on that side of the yolk which naturally floats 
+uppermost, while the rest of the yolk, of a deeper yellow colour, contains 
+a large quantity of vitelline granules or globules of a different chemical 
+nature from the protoplasm. 
+
+The phenomena of embryonic development are, in the first instance at 
+least, confined to the germinal disk, and the rest of the yolk serves in a 
+secondary or more remote manner to furnish materials for nourishment of 
+the embryo and its accessory parts. Thus we distinguish the germinal from 
+the nutritive or food-yolk, or, as the younger Van Beneden has named them, 
+the protoplasm and the deutoplasm. 
+
+In the smaller ovum of the mammal, on the other hand, it seems as if the 
+whole, or nearly the whole, of the yolk were protoplasmic or germinal. 
+There may be some admixture of yolk-granules ; but there is not the 
+marked separation or limitation of the protoplasmic substance which is so 
+distinct in birds, and the earliest changes of development extend to the 
+whole component substance of the yolk, or, in other words, the yolk is entirely 
+germinal. Hence some have given the names of meroblastic and holoblastic 
+(mcaningpartially and entirely germinal) to these two contrasting forms of ova. 
+There are many of the invertebrate animals of which the ova present the 
+same entirely germinal arrangement as in those of mammals, and the Am- 
+phioxus may be included in the same group. 
+
+The Amphibia stand in some measure between the two extremes--- the 
+purely protoplasmic or germinal part occupying one side, and the nutritive or 
+vitelline the other. But among the Invertebrates the gradations are often 
+such as to make it difiicult to determine under which group the ova should 
+be placed. 
+
+The genesis or formation of the ovum itself, if it be considered with refe- 
+rence to its first origin, carries us back to a very early period of the develop- 
+ment of the parent in which it is produced ; and it is one of the most 
+interesting problems to determine what is the source of the cells in the parent 
+from which the reproductive elements originally spring. All that I can ven- 
+ture to say at present in regard to this point is, that the primordial ova or 
+
+
+vol. ii. p. 374, and the Review by Ray Lankester of Haeckel's work, ‘ Perigenesis der 
+Blastidule,' &c., in ‘ Nature ' for 1876, p. 235, and Ray Lankester's essay on ‘ Comparative 
+Longevity,' 1870. 
+
+germs appear in the parental body, while still embryonic, at a very eai-ly period 
+of its development, and clearly derive their origin from a deeply-seated part 
+of the formative cells which are undergoing transformation into the primitive 
+organs ; but the exact seat of the origin of the two kinds of reproductive 
+cells is still a matter of doubt. 
+
+When the ovum attains its full maturity in the ovary, the seat of its 
+formation within the parent, it is separated from that organ, and when fer- 
+tilized proceeds to undergo embryonic development, differing in this respect 
+from the germinal product of the higher plants, in which the embryo is deve- 
+loped in the place of formation of the seed. 
+
+The period of maturation of the ovum is marked in the greater number 
+of animals by a series of phenomena which have generally been interpreted 
+as the extrusion or absorption of the germinal vesicle ; and various observers 
+have actually traced the steps of the process by which that vesicle appears 
+to leave the yolk and is lost to sight, or has passed into the space between 
+the yolk and its membrane in the shape of the peculiar hyaline bodies named 
+the polar or directing globules. But recent researches, afterwards to be 
+referred to, tend to show that some part at least of the substance of the ger- 
+minal vesicle remains to fonn, when combined with the fertilizing element, 
+the newly endowed basis of future development. 
+
+Among the earliest changes to which the perfect animal ovum is subject, 
+I have first to refer to the segmentation of the germ, a series of phenomena 
+the observation of which has been productive of most important results in 
+leading to a comprehension of the intimate nature of the formative process, 
+and which is of the deepest interest both in a morphological and histo- 
+logical point of view. This process, which was first distinctly observed by 
+Prevost and Dumas more than fifty years ago, and is now known to occur in 
+all animal ova, consists essentially in the cleavage or splitting up of the 
+protoplasmic substance of the yolk, by which it becomes rapidly subdivided 
+into smaller and more numerous elements, so as at last to give rise to the 
+pi'oduction of an organized stratum of cells out of which, by subsequent 
+changes, the embryo is formed. 
+
+The process of yolk-segmentation may at once be distinguished as of two 
+kinds, according as it affects in the small-yolked ova the whole mass of the 
+yolk simultaneously, or in the large- yolked ova is limited to only one part of 
+it. The cleavage process, in fact, affects the germinal and not the food-yolk ; 
+so that to take the two most contrasting instances of the bird and mammal, 
+to which I have before referred, it appears that while the mammal's ovum 
+undergoes entire segmentation, this process is confined to the substance of the 
+cicatricula or germinal disk of the bird's egg. This process is essentially one 
+of cell-division, but it is also in some measure one of cell-formation. The 
+best idea of its nature will be obtained from a short description of the total 
+segmentation occurring in the mammal's ovum. 
+
+When, as before mentioned, the germinal vesicle has been in part ex- 
+truded or lost to sight, the whole yolk-substance of the ovum forms a nearly 
+uniform mass of finely granular protoplasm, enclosed within the external 
+cell-membrane. Within a few hours later a clear nucleus has arisen in this 
+mass. To this more definite form of organization assumed by the germinal 
+substance of the future animal, which is about to be the subject of the seg- 
+menting process, the name of the first segment-sphere may be given. 
+
+By the process of cleavage which now begins, this first segment- sphere 
+and its nucleus undergo division into two nucleated spheres of smaller size, 
+the whole substance of the yolk, in a holoblastic ovum, such as that of the 
+mammal, being_involved in the segmenting process. 
+
+The second stage of division follows after the lapse of a few hours, and 
+results in the formation of four nucleated segment-spheres ; and the process 
+of division being repeated in a certain definite order, there result in the 
+succeeding stages (that is, the third, fourth, fifth, and up to the tenth) the 
+numbers of 8, 12, 16, 24, 32, 48, 64, and 96 nucleated yolk-spheres, germ- 
+spheres, or formative cells. 
+
+In the rabbit's ovum the tenth stage is reached in less than three days ; 
+and as during that time the size of the whole ovum has undergone very little 
+increase, it follows that the spheres of each succeeding set, as they become 
+more numerous, have diminished greatly in size. These segment-spheres 
+are all destitute of external membrane, but are distinctly nucleated ; and their 
+protoplasmic substance is more or less granular, presenting the usual histo- 
+logical characters of growing cells. 
+
+By the time that segmentation has reached the seventh or eighth stage, 
+when 32 or 48 spheres have been formed, the ovum has assumed the 
+appearance of a mulberry, in which the outer smaller spheres, closely massed 
+together, project slightly and uniformly over the whole surface ; while the 
+interior of the ball is filled with cells of a somewhat larger size and a more 
+opaque granular aspect, also resulting from the process of segmentation. 
+
+Already, however, the mutual compression of the spheres or cells on the 
+surface, by their crowding together, has led to the flattening of their adjacent 
+sides ; and by the time the tenth stage is reached, when the whole number 
+of the cells is about 96, the more advanced superficial cells, having ranged 
+themselves closely together, form a nucleated cellular layer or covering of 
+the yolk, enclosing within them the larger and more opaque cells, derived 
+like the first from the segmenting process. In a more advanced stage, the 
+deej)er cells now referred to having taken the form of an internal layer, there 
+results at last the bilaminar blastoderm or embryonic germinal membrane. 
+
+The process of partial segmentation, such as occurs in the bird's egg, 
+though perhaps fundamentally the same as that of the mammal previously 
+described, stands in a different relation to the parts of the whole yolk or 
+egg, and consequentlj' differs in its general phenomena. The segmentation 
+
+is mainly restricted in the meroblastic ova of birds to the germinal disk or 
+cicatricula, and does not immediately involve any part of the larger re- 
+mainder of the yolk. This takes place during the time of the descent of 
+the yolk through the oviduct, when the yolk is recemng the covering of the 
+white or albumen, the membrane, and the shell, previous to being laid --- a 
+process which, in the common domestic fowl, usually occupies less than 
+twenty-four hours. Corresponding essentially to the more complete segmen- 
+tation of the mammal's ovum, the process leads to the same result in the 
+production of two layers of nucleated formative cells in the original seat of 
+a protoplasmic disk --- a bilaminar blastoderm resulting as in the mammal's 
+ovum, though in a somewhat different relation to the yolk. 
+
+I wUl not fatigue you with a description of the details of these phenomena, 
+interesting as they may be, but only mention generally that they consist in the 
+formation of deep fissures with rounded edges running from the surface into the 
+substance of the germ-disk. The first of these fissures crosses the disk in 
+a determinate direction, dividing it into two nearly equal semicircular parts. 
+In the next stage another fissure, crossing the first nearly at right angles, 
+produces four angular segments. Then come four intervening radial fissures 
+which subdivide the four segments into eight ; and next afterwards the central 
+angles of these eight radial segments are cut off from their peripheral portions 
+by a different fissui'e, which may be compared to one of the parallels of latitude 
+on the globe near the pole where the radial or longitude fissures converge. 
+And so thereafter, by the succession and alternation of radial and circular 
+clefts (which, however, as they extend outwards, come soon to lose their 
+regularity), the whole germinal disk is divided into the two layers of nucleated 
+cells, constituting the blastoderma or germinal membrane of Pander and 
+subsequent embryologists*. If a laid egg be subjected to the heat of 
+incubation for eight or ten hours, the cicatricula, now converted into this 
+segmented blastoderm, is found to be considerably expanded by a rapid 
+multiplication of its constituent cells ; and in as many more hours, by further 
+changes in its substance, the first lineaments of the chick begin to make their 
+appearance. Similar changes affect the blastoderm of the mammal ; and thus 
+it appears that the result of segmentation, in the bird as well as in the mammal 
+and other animals, is the production of an. organized laminar substratum, 
+which is the seat of the subsequent embryonic development. 
+
+I must stiU request your attention to some details connected with the 
+process of segmentation, which bear upon the question of the origin of the 
+
+* The more exact nature of the process of segmentation was first made known by the 
+interesting researches of Bagge in 1841, and more especially of Kolliker in 1843. The phe- 
+nomena of complete segmentation were first fully described in the mammal's ovum in 
+Bischofif's description of the development of the Babbit, 1842, and followed out in his 
+succeeding memoirs on the Dog, Guineapig, and Eoedeer. The phenomena of partial 
+segmentation were first made known, in their more exact form, by Kolliker's researches 
+on the development of the Cephalopoda, published in 1844. In birds the process was 
+first described by Bergmann in 1846, and more fully by Coste in 1848. 
+
+new cells, and on which recent research has thrown a new and unexpected 
+light. 
+
+With respect to the nature of the first segment-sphere of the ovum and 
+the source of its nucleus, as well as of the other segment-spheres or cells 
+which follow each other in the successive steps of germ-subdivision, it appears 
+probable, from the researches of several independent observers, and more 
+especially of Edward Van Beneden and Oscar Hertwig, that in the course of 
+the extrusion of the germinal vesicle a small portion of it remains behind 
+in the form of a minute mass of hyaline substance, to which Van Beneden 
+has given the name of pronucleus, and that, as the result of the fertilizing 
+process, there is formed a second similar hyaline globule or pronucleus, 
+situated near the surface, which gradually travels towards the centre and 
+unites with the first pro nucleus, and that these two pronuclei, being fused 
+together, form the true nucleus of the first segment-sphere. According to 
+this view the original germinal vesicle, when it disappears or is lost to sight, 
+as described by so many embryologists, is not dissipated, but only undergoes 
+changes leading to the formation of the new and more highly endowed nucleus 
+of the first embryonic or segmental sphere. It further appears that the sub- 
+division of each segmenting mass is preceded by a change and division of 
+the nucleus, and that this division of the nucleus is accompanied by the pe- 
+culiar phenomenon of a double conical or spindle-shaped radial lineation of the 
+protoplasm, which, if we were inclined to speculate as to its nature, seems 
+almost as if it marked out the lines of molecular force acting in the organizing 
+process. These lines, however, it will be understood, if visible with the 
+microscope, even of the highest magnifying-power yet attained, belong to 
+much larger particles than those of the supposed molecules of the physicist ; 
+but, considered in connexion with what we know of the movements which 
+freqnently precede the act of division of the yolk-spheres, we seem in this 
+phenomenon to have made some near approach to the observation of the 
+direction in which the molecular forces operating in organization may be 
+supposed to act*. 
+
+With respect to the nature of the blastoderm, the organized cellular stratum 
+resulting from segmentation, and its relation to the previous condition of 
+
+* The observations referred to above as to the division of the nucleus are so novel and 
+of such deep interest that I am tempted to add here a short abstract of their more im- 
+portant results from a very clear account given of them by Dr. John Priestley, of 
+Ovrens College, Manchester, in the ‘ Journal of Microscopical Science' for April 1876. 
+
+The researches now referred to are those of Auerbach, Butschli, Strasburger, Hertwig, 
+and Edw. Van Beneden ; and the following may be stated as the points in which they 
+mainly agree : --- 
+
+The nucleus when about to divide elongates into a spindle-shaped body, becomes irregular 
+and indistinct, acquires a granular disk or zone in the plane of its equator ; this divides 
+
+the ovum on the one hand, and the future embryo on the other, there is pre- 
+sented to us, by modern research, the interesting view that the blastoderm 
+consists, after completion of the segmenting process, of two layers of cells --- an 
+outer or upper (usually composed of smaller, clearer, and more compact 
+nucleated cells), named ectoderm or epiblast, and an inner or lower (consisting 
+of cells which are somewhat larger, more opaque and granular, but also 
+nucleated), named endoderm or hypoblast. 
+
+In the meroblastic ova, such as those of birds, the bilaminar blastoderm 
+is discoid and circumscribed as it lies on the yolk-surface, and only comes 
+to envelop the whole of the food-yolk in the progress of later development ; 
+while in the holoblastic ova, and more especially in mammals, the blastoderm 
+from the first extends over the whole surface of the yolk, and thus forms an 
+entire covering of the yolk known as the " vesicular blastoderm," the space 
+within being occupied by fiuid. 
+
+Huxley long ago presented the interesting view that these two layers are 
+essentially the same, in their morphological relations and histological structure, 
+as the double wall of the body in the simplest forms of animals above the 
+Protozoa. Haeckel has more recently followed out this view, supporting it by 
+his researches in the Calcareous Sponges, and has founded upon it his well- 
+known Gastrcea theory. According to this view all animals take their origin 
+from a form of Oastrula, or simple stomach-like cavity. In the lower tribes, 
+as in the instance of the common freshwater polype or Hydra, they proceed no 
+further than the Gastrula stage, unless by mere enlargement and slight differ- 
+
+
+into two, and each half moves towards the pole of the spindle on its own side, there being 
+radiated lines of protoplasm between the poles and the equatorial disk. 
+
+The disk segments are the new nuclei, and the subsequent division of the cell takes 
+place in the intermediate space. 
+
+Although these observers still differ in opinion upon some of the details of this process, 
+and especially as to the fate of the germinal vesicle, all of them seem to agree that there 
+are two pronuclei or distinct hyaline parts of the yolk-protoplasm, a superficial and a 
+deep one, engaged in the formation of the new nucleus ; and both Hertwig and Van Bene- 
+den are of opinion that the two proceed from different productive elements. 
+
+The radiated structure of the nuclei had been previously recognized by Fol and Flem- 
+ming, and further observed by Oellacher. 
+
+1. Butschli's researches are published in the Nov. Act. Nat.-Cur. 1873, and in the 
+Zeitschr. fiir wissensch. Zool. vol. xxv. 
+
+2. Auerbach's observations in his Organolog. Studien, 1874. 
+
+3. Strasburger's observations in his memoir ‘ Ueber ZeUbildung und Zelltheilung,' 
+Jena, 1875. 
+
+4. Edward Van Beneden's researches, partly in his memoir " On the Composition and 
+Significance of the Egg," &c., presented to the Belgian Academy in 1868, and more parti- 
+cularly in the extremely interesting prehminary account of " Eesearches on the Develop- 
+ment of Mammalia," &c., 1875, and in a separate paper in the Journ. of Microscopical 
+Science for April 1876. 
+
+5. Oscar Hertwig's memoirs are contained in the Morpholog. Jahrbuch, 1875, and his 
+most interesting and novel observations in the same work, 1877. 
+
+entiatiou of the two primitive layers of cells representing the persistent 
+ectoderm and endoderm *, 
+
+If, pursuing this idea, we take a survey of the whole animal kingdom 
+iu its long gradation of increasing complexity of form and structure from the 
+simplest animal up to man himself, we find that all the various modifications 
+of organic structure which present themselves are found, in the history of the 
+individual or ontological development of the different members of the series, 
+to spring originally from two cellular laminae, ectoderm and endoderm, the 
+component elements of which may again he traced back to the first segment- 
+sphere and primitive protoplasmic elements of the ovum. 
+
+Time does not admit of my conducting you through the chain of observa- 
+tion and reasoning by which Haeckel seeks to convince us of the universal 
+applicability of his theory ; but I cannot avoid calling your attention to the 
+extremely interesting relation which has been shown to exist between the 
+primary phases of development of the ovum and the foundation of the blasto- 
+derm in very different groups of animals, more especially by the researches 
+of Haeckel himself, of Kowalevsky, Edward Van Beneden, and others, and 
+which has received most efficient support from the investigations and writings 
+of E. Bay Lankester in our own country ; so that now we may indulge 
+the well-grounded expectation that, notwithstanding the many and great 
+difficulties which doubtless still present themselves in reconciling various 
+forms with the general principle of the theory, we are at least in the track 
+which may lead to a consistent view of the relations subsisting between the 
+ontogenetic, or individual, and the phylogenetic, or race history of the fo)-- 
+mation of animals and of man. 
+
+In all animals, then, above the Protozoa, the ovum presents, in some form 
+or other, the bilaminar structure of ectoderm and endoderm at a certain 
+stage of its development, this structure resulting from a process of segmen- 
+tation or cell-cleavage ; and there are three principal modes in which the 
+double condition of the layers is brought about. In one of these it is by 
+inward folding or invagination of a part of the single layer of cells immediately 
+resulting from the process of segmentation that the doubling of the layers is 
+produced ; in the second, perhaps resolvable into the first, it may be described 
+rather as a process of enclosure of one set of cells within another ; while in 
+the third the segmented cells, arranged as a single layer round a central 
+cavity of the ovum, divide themselves later into two layers. But the dis- 
+tinction of ectodermic and endodermic layers of cells is maintained, whether 
+it be primitive and manifested from a very early period, or acquired later by 
+a secondary process of differentiation. Thus in many Invertebrates, as also 
+
+* At this place I will only refer to one of the most recent of Haeckel's works, in which 
+the views alluded to above are fully exposed in a series of most interesting memoirs, vir. 
+‘ Studien zur Gastrsea-Theorie,' Jena, 1877 ; and to Di\ E. Percival Wright's translation 
+of the account of Haeckel's views in Jouru. of Microsc. Science, vol. xiv. 1874. 
+
+in Araphioxus among the Vertebrates, a distinct invagination occurs, while 
+in Mammals, as recently shown by Van Beneden's most interesting observa- 
+tions in the rabbit's ovum, and probably also in some invertebrates, the cells 
+of the ectoderm gradually spread over those of the endoderm during the pro- 
+gress of segmentation, and thus the endodermic comes to be enclosed by the 
+ectodermic layer of cells. 
+
+From the very novel and unexpected observations of Van Beneden it further 
+appears that from the earliest period in the process of segmentation in the 
+mammal's ovum it is possible to perceive a distinction of two kinds of seg- 
+ment-spheres or cells, and that when this process is traced back to its first 
+stage it is found that the whole of the cells belonging to the ectoderm are the 
+progeny of, or result from the division of the upper of the two first formed 
+segments, and that the whole of the endodermic cells are the descendants of 
+the lower of the two first segmented cells. This, however, is not an isolated 
+fact belonging only to mammalian development, but one which very nearly 
+repeats a process ascertained to occur in a considerable number of the lower 
+animals, and it seems to promise the means of greatly advancing the compre- 
+hension of the whole process of blastodermic formation. Thus ectoderm and 
+endoderm, which are in fact the primordial rudiments of the future animal 
+and vegetative systems of the embryo, are traced back as distinct from each 
+other to the first stage of segmentation of the germ. 
+
+Accepting these facts as ascertained, they may be regarded as of the deepest 
+significance in the phylogenetic historj" of animals ; for they appear to open 
+up the prospect of our being able to trace transitions between the earliest 
+embryonic forms occurring in the most different kinds of ova, as between the 
+discoid or meroblastic and the vesicular or holoblastic, through the inter- 
+mediate series which may be termed amphiblastie ova*. 
+
+In the lowest animals, the two layers already mentioned, viz. ectoderm 
+and endoderm, are the only ones known to constitute the basis of develop- 
+mental organization ; but as we rise in the scale of animals we find a new 
+feature appearing in their structure, which is repeated also in the history of 
+the formation of the blastoderm in the higher animals up to man. This 
+consists in the formation of an intermediate layer or layers constituting the 
+mesoderm, with which, in by far the greater number, is connected the forma- 
+tion of some of the most important bodily structures, such as the osseous, 
+muscular, and vascular systems. 
+
+I will not stop to discuss the very difiicult question of the first origin of the 
+mesoderm, upon which embryologists are not yet entirely agreed, but will 
+
+* I ought here to refer to the elaborate memoirs of Professor Semper on the morpho- 
+logical relations of the Vertebrate and Invertebrate animals, contained in tlie ‘ Arbeiten 
+aus dem Zoolog. -zoolom. Institut in Wiirzburg,' 1875 and 1876, in which the conclusions 
+arrived at do not coincide with tlie views above stated. 
+
+only remark that a view originally taken of this subject by the acute Von 
+Baer appears more and more to gain ground ; and it is this --- that the meso- 
+derm, arising as a secondary structure, that is, later than the two primary 
+layers of ectoderm and endoderm (corresponding to the serous and mucous 
+layers of Pander), is probably connected with or derived from both of these 
+primitive layers, a view which it will afterwards appear is equally important 
+ontogenetically and phylogenetically. 
+
+But whatever may be the first origin of the mesohlast, we know that in 
+the Vertebrata this layer, separating from between the other two, and 
+acquiring rapidly by its cell-multiplication larger proportions and much 
+greater complexity than belongs to either ectoderm or endoderm, speedily 
+undergoes further subdivision and differentiation in connexion with the 
+appearance of the embryonic organs which arise from it, and in this respect 
+contrasts greatly with the simplicity of structure which remains in the 
+developed parts of the ectodermic and endodermic layers. Thus, while 
+the ectoderm supplies the formative materials for the external covering or 
+epidermis, together with the rudiments of the central nervous organs and 
+principal sense-organs, and the endoderm by itself only gives rise to the 
+epithelial lining of the alimentary canal and the cellular part of the glands 
+connected with it, the mesohlast is the source of far more numerous and 
+complex parts, viz. the whole of the true skin or corium, the vertebral 
+column and osseous system, the external voluntary muscles and connective 
+tissue, the muscular walls of the alimentary canal, the heart and blood- 
+vessels, the kidneys, and the reproductive organs, thus forming much the 
+greatest bulk of the body in the higher animals. 
+
+There is, however, a peculiarity in the mode of the earliest development 
+of the mesohlast which is of great importance in connexion with the general 
+history of the disposition of parts in the animal body, to which I must now 
+refer. This consists in the division of the mesohlast in all but its central 
+part into two laminae, an outer or upper and an inner or lower, and the separa- 
+tion of these by an interval or cavity which corresponds to the space existing 
+between the outer wall of our bodies and the deeper viscera, and which, from 
+the point of view of the vertebrate animals is called the pleuro-peritoneal 
+cavity, but, viewed in the more extended series of animals down to the Annu- 
+loida, may receive the more general appellation of pleuro-splanchnic or 
+parieto-visceral cavity, or, shortly, the coelom. Thns, from an early period 
+in the vertebrate embryo, and in a considerable number of the invertebrate, 
+a division of the mesoderm takes place into the somatopleural or outer 
+lamina and the splanchnopleural or inner lamina --- the outer being the seat 
+of formation of the dermal, muscular, and osseous systems (the volunto- 
+motory of Bemak), and the inner of the muscular wail of the alimentary 
+canal, as well as of the contractile substance of the heart and the vascular 
+system generally. 
+
+It ia interesting to find that there is a correspondence between the 
+later division of the mesoderm of the higher animals derived from the two 
+primitive blastodermic laminae and the original absence of mesodermic 
+structure in the lowest animals, followed by the gradual appearance, 
+first of one layer (the external muscular in the higher Ccelenterata), and 
+soon afterwards by the two divisions or laminae with the intermediate 
+ccelom. 
+
+In this account of what may be termed the organized foundation of the 
+new being, I have entered into some detail, because I felt that our conception 
+of any relation subsisting between the ontogenetic history of animals and 
+their phylogenetic evolution can only be formed from the careful study 
+of the earliest phenomena of embryonic organization. Notwithstanding the 
+many difficulties which unquestionably still block the way, I am inclined 
+to think that there is great probability in the view of a common bilaminar 
+origin for the embryo of all animals above the Protozoa, and that the 
+vertebrate equally with the invertebrate animals may he shown to possess, 
+in the first stages of their blastodermic or embryonic formation, the two 
+primitive layers of ectoderm and endoderm*. 
+
+
+To attempt, however, to pursue the history of the development of animals 
+in detail would he equivalent to inflicting upon you a complete system of 
+human and comparative anatomy. But I cannot leave the subject abruptly 
+without an endeavour to point out in the briefest possible manner the bearing 
+of some of the leading facts in embryology upon the general relation of onto- 
+geny and phylogeny. 
+
+We are here brought into the contemplation of those remarkable changes, 
+all capable of being observed and demonstrated, by which the complex 
+organization of the body of man and animals is gradually built up out of the 
+elementary materials furnished by the blastodermic layers --- a process which 
+has been looked upon by all those who have engaged in its study with the 
+greatest interest and admiration. By comparing these phenomena as observed 
+in individuals belonging to diff'erent classes and orders of animals, it is 
+found that not only are they not different, but, on the contrary, that 
+they present features of the most remarkable resemblance and conformity, 
+and we are led to the conclusion that there is a general plan of development 
+proved to extend to the members of considerable groups, and possibly capable 
+
+
+* If we reserve the words ectoderm and endoderm to designate the two layers of the 
+primary bilaminar blastoderm, we may apply the terms epiblast and hypoblast to their 
+derivatives after the formation of the mesoderm, and indicate the relations of the whole 
+to the secondary or quadrilaininar blastoderm by the following Table : --- 
+
+
+of being traced from one group to another ; this being in fact equivalent to the 
+statement that there is a similar type of structure pervading the animals 
+of each group, and a probability of a common type being ascertained 
+to belong to them all. The main question, therefore, to be answered is 
+whether there is or is not a general correspondence between the phenomena 
+of development and the gradation of type in animal structure upon which 
+anatomists and zoologists are agreed ; and my object will now be to bring 
+rapidly before you one or two of the most marked illustrations of the 
+correspondence, drawn from the early history of development in the higher 
+animals. 
+
+As one of the examples of the earlier phenomena of development I may 
+refer to the change which is perceptible as early as the 18th or 20th hour 
+of incubation in the chick, and which is reproduced in the course of develop- 
+ment of every member of the Vertebrate subkingdom. It consists in the 
+formation of cross clefts on each side of the primitive neural cavity, which 
+divide off from each other a number of segments of this wall in the length 
+of the axis of the embryo. At first there are only one or two such clefts ; 
+hut they rapidly increase in a backward direction in the body of the embryo, 
+and as development proceeds they extend into the tail itself. These 
+are the protovertehrce of embryologists --- not corresponding, as might at 
+first be supposed, with the true or actual vertebrae which are formed later, 
+blit representing in an interesting manner transverse vertebral segments 
+of the body, and containing within each the elements of the several 
+structures belonging to the body-wall afterwards to be developed, in- 
+cluding the true cartilaginous or osseous vertebral arches and the muscular 
+plates. 
+
+This change, however, belongs to the mesodermic lamina, and occurs 
+in an elongated thick portion of it, which makes its appearance on each 
+side of the primitive neural canal between the epiblast and the hypoblast. 
+The transverse cleavage is ascertained to commence near what afterwards 
+forms the first cervical vertebra, but does not extend into the base of the 
+cranium. And it is most interesting to note in this cleavage the formation 
+at so early a period of the succession of metameres or series of similar parts, 
+which forms a main characteristic of vertebral organization. 
+
+As intimately connected with the formation of the vertebral column, the 
+appearance of the chorda dorsalis or notochord presents many points of 
+peculiar interest in embryological inquiries. 
+
+The notochord is a continuous median column or thread of cellular struc- 
+ture running nearly the whole length of the rudimentary body of the 
+embryo, and lying immediately below the cerebro-spinal canal. It occupies, 
+in fact, the centre of the future bodies of the vertebrae. It exists as a pri- 
+mordial structure in the emhryo of all Vertebrates, including man himself and 
+extending down to the Amphioxus, and, according to the remarkable discovery 
+
+of Kowalevsky in 1866, it is to be found among the Invertebrates in the 
+larva of the Ascidia*. 
+
+In Amphioxus and the Cyclostomatous Fishes the notochord, growing with 
+the rest of the body into a highly developed form, acts as a substitute for the 
+pillar of the bodies of the vertebrae, no vertebral bodies being developed ; but 
+in Cartilaginous and Osseous Fishes various gradations of cartilaginous and 
+osseous structures come to surround the notochord and give rise to the simpler 
+forms of vertebral bodies, which undergo more and more distinct development 
+in the higher vertebrates. In all instances the substance forming the vertebral 
+bodies is deposited on the surface of or outside the notochord and its sheath, 
+so that this body remains for a time as a vestigial structure within the 
+vertebral bodies of the higher animals. 
+
+The ohservations of Kowalevsky with respect to the existence of a notochord 
+in the Ascidia, which have been confirmed by Kupfer and others, have pro- 
+duced a change little short of revolutionary in embryological and zoological 
+views, leading as they do to the support of the hypothesis that the Ascidian 
+is an earlier stage in the phylogenetic history of the mammal and other 
+Vertebrates. The analogy between the Amphioxus and Ascidian larva is 
+certainly most curious and striking as regards the relation of the notochord 
+to other parts ; and it is not difficult to conceive such a change in the form 
+and position of the organs in their passage from the embryonic to the adult 
+state as is not inconsistent with the supposition that the Vertebrates and 
+the Ascidia may have had a common ancestral form. Kowalevsky's discover}' 
+opens up at least an entirely new path of inquiry ; and necessitates the modi- 
+fication of our views as to the entire separation of the Vertebrates from the 
+other groups of animals, if we do not at once adopt the hypothesis that 
+through the Ascidian and other forms the origin of the Vertebrates may be 
+traced downwards in the series to the lower grades of animal organization. 
+
+The notochord extends a short way forward into the cranial basis ; and an 
+interesting question here presents itself, beginning with the speculations of 
+Goethe and Oken, and stiU forming a subject of discussion, whether the series 
+of cranial or cephalic bones is comparable to that of the vertebrae. On the 
+whole it appears to me that it is consistent with the most recent views of the 
+development and anatomy of the head to hold the opinion that it is composed 
+of parts which are to some extent homologous with vertebral metameres t. 
+
+The history of the formation of the vertebral column presents an interesting 
+example of the correspondence in the development of the individual and the 
+race, in that all the stages which have been referred to as occurring in the 
+gradual evolution of the vertebral column in the series of Vertebrates are 
+
+* M6m. de I'Acad. de St. Petersbourg, vol. x. 
+
++ See tlie interesting and valuable memoirs of W. K. Parker, " On the Anatomy and 
+Development of the Vertebrate Skull," in Trans, of Eoy. Soc., the researches of Gegenbaur, 
+Mihalkovics, and more particularly the memoir by F. M. Balfour, " On the Development 
+of the Elasmobranchs," in the Journ. of Anat. and Physiol, vols. x. and xi. 
+
+repeated in the successive stages of the embryonic development of the higher 
+members of the series. 
+
+There is perhaps no part of the history of development in the Vertebrates 
+which illustrates in a more striking manner the similarity of plan which runs 
+through the whole of them than that connected with what I may loosely call 
+the region of the face and neck, including the apparatus of the jaws and gills. 
+The embryonic parts I now refer to consist of a series of symmetrical pairs of 
+plates which are developed at an early period below the cranium, and may 
+therefore, in stricter embryological terms, be styled the subcranial plates. 
+
+Without attempting to follow out the remarkable changes which occur in 
+the development of the nose and mouth in connexion with the anterior set of 
+these plates (which, from being placed before the mouth, are sometimes 
+named I may here refer shortly to the history'of the plates situated 
+
+behind the mouth, which were discovered by Rathke in 1826, and formed 
+the subject of an elaborate investigation by Reichert in 1837. 
+
+These plates consist of a series of symmetrical bars, four in number in 
+mammals and birds, placed immediately behind the mouth, separated by 
+clefts passing through the wall of the throat, and each traversed by a division 
+of the great artery from the heart --- thus constituting the type of a branchial 
+apparatus, which in fishes and amphibia becomes converted into the well-known 
+gills of these animals ; whilst in reptiles, birds, and mammals they undergo 
+various changes leading to the formation of very different parts, which could 
+not be recognized as having any relation to gill-structure, but for the obser- 
+vation of their earlier embryonic condition. The history of this part of deve- 
+lopment also possesses great interest on account of the extraordinary degree 
+of general resemblance which it gives to the embryos of man and the most 
+different animals at a certain stage of advancement (so great, indeed, that it 
+requires a practised eye to distinguish between them though belonging to 
+different orders of mammals, and even between some of them and the embryos 
+of birds or reptiles), as well as in connexion with the transformations of the 
+first pair of branchial apertures, which lead to the formation of the passage 
+from the throat to the ear in the higher Yertebrata. There is equal interest 
+attached to the history of the development of the first pair of arches which 
+include the basis of formation of the lower jaw with the so-called cartilage of 
+Meclcel., and which, while furnishing the bone which suspends the lower jaw in 
+reptiles and birds, is converted in mammals into the hammer-bone of the ear. 
+
+The other arches undergo transformations which are hardly less marvel- 
+lous, and the whole series of changes is such as never fails to impress the 
+embryological inquirer with a forcible idea of the persistence of typo and 
+the inexhaustible variety of changes to which simple and fundamental parts 
+may be subject in the process of their development. 
+
+It is also of deep significance, in connexion with the foregoing phenomena. 
+
+to observe the increase in the number of the gill-bars and apertures as we 
+descend in the scale to the cartilaginous fishes and lampreys, "and the still 
+further multiplication of these metameres or repeated parts in the Amphioxus ; 
+and it is interesting to note that in the Ascidia the arrangement of the giUs is 
+exactly similar to that of the Amphioxus. 
+
+The study of the comparative anatomy of the heart and its mode of for- 
+mation in the embryo furnishes another strihing illustration of the relation 
+between ontogenetic and phylogenetic development in the Vertebrates, and is 
+not without its applications to some of the invertebrate groups of animals. 
+
+I need only recall to your recollection the completely double state of this 
+organ in warm-blooded animals, by which a regular alternation of the 
+systemic and pulmonary circulations is secured, --- the series of gradations 
+through the class of Eeptiles by which we arrive at the undivided ventricle 
+of the amphibian, and the further transition in the latter animals by which 
+we come at last to the single heart of fishes ; and state that in the embryo 
+of the higher animals the changes by which the double heart is ultimately 
+developed out of an extremely simple tubular shape, into which it is at first 
+moulded from the primitive formative cells, are, in the inverse order, entirely 
+analogous to those which T have just now indicated as traceable in the 
+descending series of vertebrate animals ; so that at first the embryonic heart 
+of man and other warm-blooded animals is nothing more than a rhythmically 
+contractile vascular tube. By the inflection of this tube, the constriction of 
+its wall at certain parts, and the dilatation at others, the three chambers are 
+formed which represent the single auricle, the single ventricle, and the aortic 
+bulb of the fish. By later changes a septum is formed to divide the auricles, 
+becoming completed in all the air-breathing animals, but remaining incom- 
+plete in the higher animals so long as the conditions of foetal life prevent the 
+return of arterialized blood to the left auricle. The growth of another septum 
+within the ventricular portion gradually divides that cavity into two ven- 
+tricles, repeating somewhat in its progress the variations observed in difierent 
+reptiles, and attaining its complete state in the crocodile and warm-blooded 
+animals. 
+
+I must not attempt to pursue this interesting subject further; but I cannot 
+avoid making reference to the instructive view presented by the embryo- 
+logical study of the nature of the malformations to which the heart is sub- 
+ject, which, as in many other instances, are due to the persistence of 
+transitory conditions which belong to different stages of progress in the 
+development of the embryo. hTor can I do more than allude to the interest- 
+ing series of changes by which the aortic bulb, remaining single in fishes and 
+serving as the channel through which the whole stream of blood leaving the 
+heart is passed into the gills, becomes divided in the higher animals into the 
+roots of the two great vessels, the aorta and the pulmonary artery, and the 
+
+remarkable transformations of the vascular arches which proceed from the 
+aortic bulb along the several branchial arches, and which, in the gills of fishes 
+and aquatic Amphibia, undergo that minute subdivision which belongs to the 
+vascular distribution of gills, but which in the higher non-branchiated animals 
+are the subject of very different and various changes, in the partial obliteration 
+of some and the enlargemejit of others, by which the permanent vessels are 
+produced. 
+
+These changes and transformations have for many years been a subject of 
+much interest to comparative anatomists, and will continue to be so, not only 
+from their presenting to us one of the most remarkable examples of confor- 
+mity in the plan of development and the type of permanent or completed 
+.organization in the whole series of vertebrated animals, but also because of 
+the manifest dependence of the phenomena of their development upon ex- 
+ternal influences and atmospheric conditions affecting the respiration, nutri- 
+tion, and modes of life of the animal. 
+
+Nor is the correspondence to which I now refer entirely limited to the 
+Vertebrata. For here, again, through the Amphioxus and the Ascidia, we 
+come to see how an affinity may be traced between organs of circulation and 
+respiration which at first appear to belong to very different types. The 
+heart of vertebrates is, as is well known, essentially a concentrated form of 
+vascular development in the ventral aspect of the body, while the heart of 
+the invertebrate, whether in the more concentrated form existing in the 
+Articulata and Mollnsca or in a more subdivided shape prevalent in the 
+Annelida, is most frequently dorsal ; yet the main aorta of the Vertebrates 
+is also dorsal; and it is not impossible, through the intermediate form of 
+Amphioxus, to understand how the relation between the Vertebrate and the 
+Invertebrate type of the blood-vascular system may be maintained. 
+
+But I am warned by the lapse of time that I must not attempt to pursue 
+these illustrations further. In the statement which I have made of some of 
+the more remarkable phenomena of organic production --- too long, I fear, for 
+your endurance, but much too brief to do justice to the subject --- it has been 
+my object mainly to show that they are all more or less closely related toge- 
+ther by a chain of similarity of a very marked and unmistakable character ; 
+that in their simplest forms they are indeed, in so far as our powers of obser- 
+vation enable us to know them, identical ; that in the lower grades of animal 
+and vegetable life they are so similar as to pass by insensible gradations into 
+each other ; and that in the higher forms, while they diverge most widely in 
+some of their aspects in the bodies belonging to the two great kingdoms of 
+organic nature, and in the larger groups distinguishable within each of them, 
+yet it is stiU possible, from the fundamental similarity of the phenomena, to 
+trace in the transitional forms of all their varieties one great general plan of 
+organization. 
+
+In its simplest and earliest form tliat plan comprises a minute mass of 
+the common nitrogenous hydrocarbon compound to which the name of 
+protoplasm has been given, exhibiting the vital properties of assimilation, 
+reproduction, and irritability. The second stage in this plan is the nucleated 
+and enclosed condition of the protoplasmic mass in the organized cell. We 
+next recognize the differentiation of two productive elements, and their com- 
+bination for the formation of a more highly endowed organizing element in 
+the embryonic germ-sphere or cell ; and the fourth stage of advance in the 
+complexity of the organizing phenomena is in the multiplication of the fer- 
+tilized emhryo-cell and its conversion into continuous organized strata, by 
+further histological changes in which the morphological foundations of the 
+future embryo or new being are laid. 
+
+I need not now recur to the further series of complications in the formative 
+process by which the bilaminar blastoderm is developed and becomes trila- 
+minar or quadrilaminar, but only recall to your recollection that while these 
+several states of the primordial condition of the incipient animal pass insen- 
+sibly into each other, there is a pervading similarity in the nature of the his- 
+tological changes by which they are reached, and that in the production of the 
+endless variations of form assumed by the organs and systems of different 
+animals in the course of their development, the process of cell-production, 
+multiplication, and differentiation remains identical. The more obvious 
+morphological changes are of so similar a character throughout the whole, 
+and so nearly allied in the different larger groups, that we cannot but 
+regard them as placed in some very close and intimate relation to the 
+inherent properties of the organic substance which is their seat, and the 
+ever-present influence of the vital conditions in which alone these properties 
+manifest themselves. 
+
+The formative or organizing property therefore resides in the living sub- 
+stance of every organized cell and in each of its component molecules, and is 
+a necessary part of the physical and chemical constitution of the organizing 
+elements in the conditions of life ; and it scarcely needs to be said that these 
+conditions may be as varied as the countless numbers of the molecules which 
+compose the smallest particles of their substance. But, setting aside all 
+speculation of a merely pangonctic kind, it appears to me that no one could 
+have engaged in the study of embryological development for any time without 
+becoming convinced that the phenomena which have been ascertained as to 
+the first origin and formation of textures and organs in any individual animal 
+are of so uniform a character as to indicate forcibly a law of connexion 
+and continuity between them ; nor will his study of the phenomena of 
+development in different animals have gone far before he is equally strongly 
+convinced of the similarity of plan in the development of the larger groups, 
+and, to some extent, of the whole. I consider it impossible therefore for any 
+one to be a faithful student of embryology, in the present state of science) 
+
+
+without at the same time becoming an evolutionist. There may still bo many 
+difficulties, some inconsistencies, and much to learn, and there may remain 
+beyond much which we shall never know ; but I cannot conceive any doctrine 
+professing to bring the phenomena of embryonic development within a general 
+law which is not, like the theory of Darwin, consistent with their fundamental 
+identity, their endless variability, their subjugation to varying external in- 
+fluences and conditions, and with the possibility of the transmission of the 
+vital conditions and properties, with all their variations, from individual to 
+individual, and, in the long lapse of ages, from race to race. 
+
+I regard it, therefore, as no exaggerated representation of the present state 
+of our knowledge to say that the ontogenetic development of the individual 
+in the higher animals repeats in its more general character, and in many 
+of its specific phenomena, the phylogenetic develoijment of the race. If we 
+admit the progressive nature of the changes of development, their simi- 
+larity in different groups, and their common characters in all animals, nay, 
+even in some respects in both plants and animals, we can scarcely refuse 
+to recognize the possibility of continuous derivation in the history of their 
+origin ; and however far we may be, by reason of the imperfection of our 
+knowledge of Palaeontology, Comparative Anatomy, and Embryology, from 
+realizing the precise nature of the chain of connexion by which the actual 
+descent has taken place, stiU there can be little doubt remaining in the minds 
+of any unprejudiced student of embryology that it is only by the employment 
+of such an hypothesis as that of Evolution that further investigation in these 
+several departments will be promoted, so as to bring us to a fuller compre- 
+hension of the most general law which regulates the adaptation of structnro 
+to function in the Universe. 
