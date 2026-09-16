@@ -64,346 +64,71 @@ There is very great probability, indeed, that all the Zymotic diseases (by which
 
 Leaving, however, these and many other general questions regarding the origin of the lowest forms of animal and vegetable life, let us now turn our attention to the mode of development of a new being in those possessing more obvious and known germs. The general nature of the formative process, in all instances where fertilized germs are produced, will be best understood by a short sketch of the phenomena ascertained to occur in different kinds of plants.
 
-In the higher or phanerogamic plants it is generally well known that the 
-combination of two parts of the flower is necessary to the production of a seed 
-containing the embryo or young plant. Beginning with the discovery of the 
-pollen-tubes by Amici in 1823, the careful and minute investigations of a long 
-line of illustrious vegetable physiologists have brought to light the details of 
-the process by which fertilization is effected, and have shown, in fact, how the 
-minute tube developed from the inner membrane of the poUen-granule, as 
-soon as it falls upon the stigmatic tissue of the seed-hearing plant, insinuates 
-itself by a rapid process of development between the cells of the style, and 
-reaches at last the ovule, in the interior of which is the embryo-sac ; how, 
-having passed into the micropyle or orifice of the ovule, it makes its way 
-to the embryo-sac ; how a minute portion of the fertilizing substance of 
-the foviUa transudes from the pollen-tube into the cavity of the embryo-sac, 
-in which by this time a certain portion of the protoplasm has become differ- 
-entiated into the germinal vesicle --- thereby stimulating it to further growth 
-and development, the earliest phenomena of which manifest themselves by 
-the formation of an investing cell- wall, and by the occurrence of cell-division 
-which results in the formation of the embryo or plantule of the seed. 
+In the higher or phanerogamic plants it is generally well known that the combination of two parts of the flower is necessary to the production of a seed containing the embryo or young plant. Beginning with the discovery of the pollen-tubes by Amici in 1823, the careful and minute investigations of a long line of illustrious vegetable physiologists have brought to light the details of the process by which fertilization is effected, and have shown, in fact, how the minute tube developed from the inner membrane of the pollen-granule, as soon as it falls upon the stigmatic tissue of the seed-bearing plant, insinuates itself by a rapid process of development between the cells of the style, and reaches at last the ovule, in the interior of which is the embryo-sac; how, having passed into the micropyle or orifice of the ovule, it makes its way to the embryo-sac; how a minute portion of the fertilizing substance of the fovilla transudes from the pollen-tube into the cavity of the embryo-sac, in which by this time a certain portion of the protoplasm has become differentiated into the germinal vesicle --- thereby stimulating it to further growth and development, the earliest phenomena of which manifest themselves by the formation of an investing cell-wall, and by the occurrence of cell-division which results in the formation of the embryo or plantule of the seed.
 
-Thus it appears that the essential part of the process of production in pha- 
-nerogamic plants is the formation in the parent plant of cells of two different 
-kinds, which by themselves have little or no independent power of further 
-growth, but which, by their union, give rise to a product in which the power 
-of development is raised to the highest degree. 
+Thus it appears that the essential part of the process of production in phanerogamic plants is the formation in the parent plant of cells of two different kinds, which by themselves have little or no independent power of further growth, but which, by their union, give rise to a product in which the power of development is raised to the highest degree.
 
-By further researches it is now known that the same law prevails in aU the 
-remaining members of the vegetable kingdom, with the exception only of the 
-very simplest forms*. 
+By further researches it is now known that the same law prevails in all the remaining members of the vegetable kingdom, with the exception only of the very simplest forms.*
 
-In viewing the reproductive process in the series of Cryptogamic plants, 
-two facts at once strike us as remarkable in the modifications which are 
-observed to accompany the formation of a productive germ, viz. : --- first, that 
-the difference between the two productive elements becomes more prominent, 
-or as it were more highly specialized, in the Cryptogamic than in the Pha- 
-nerogamic plants ; and second, that in the simpler and lower forms this differ- 
-ence gradually disappears till it is lost in complete uniformity of the pro- 
-ductive elements. 
+In viewing the reproductive process in the series of Cryptogamic plants, two facts at once strike us as remarkable in the modifications which are observed to accompany the formation of a productive germ, viz.:--- first, that the difference between the two productive elements becomes more prominent, or as it were more highly specialized, in the Cryptogamic than in the Phanerogamic plants; and second, that in the simpler and lower forms this difference gradually disappears till it is lost in complete uniformity of the productive elements.
 
-^ It will be observed that I leave entirely out of view the whole subject of the multipli- 
-cation of plants by budding or simple division. 
+*) It will be observed that I leave entirely out of view the whole subject of the multiplication of plants by budding or simple division.
 
-Thus in the whole tribe of the Ferns and Vascular Cryptogams, in the 
-higher Algae and Fungi, in the Characeae and in the Mosses, the difl'erentia- 
-tion of the productive elements is carried to a very high degree ; for while 
-that belonging to the embryo or germ presents the structure of a simple cell 
-which remains at rest, or in a comparatively passive state, and, absorbiiig 
-into itself the substance of the other, becomes the seat of subsequent 
-development, the other, corresponding to the pollen of the staminiferous 
-phanerogam, is usually separated from the place of its formation, and, having 
-undergone a peculiar modification of structure by which it acquires active 
-moving cilia, it changes place and is directed towards the germinal structure, 
-and, coming in contact with its elementary cell, is more or less absorbed or 
-lost in the fertilizing process. The protoplasm of the germinal ceU thus 
-acted on and fertilized then proceeds to undergo the changes of development 
-by which the foundation is laid for the new plant. 
+Thus in the whole tribe of the Ferns and Vascular Cryptogams, in the higher Algæ and Fungi, in the Characeae and in the Mosses, the differentiation of the productive elements is carried to a very high degree; for while that belonging to the embryo or germ presents the structure of a simple cell which remains at rest, or in a comparatively passive state, and, absorbing into itself the substance of the other, becomes the seat of subsequent development, the other, corresponding to the pollen of the staminiferous phanerogam, is usually separated from the place of its formation, and, having undergone a peculiar modification of structure by which it acquires active moving cilia, it changes place and is directed towards the germinal structure, and, coming in contact with its elementary cell, is more or less absorbed or lost in the fertilizing process. The protoplasm of the germinal cell thus acted on and fertilized then proceeds to undergo the changes of development by which the foundation is laid for the new plant.
 
-In the Algae and Fungi, however, there are gradations of the differentiation 
-of the two reproductive elements which are of the greatest interest in lead- 
-ing to a comprehension of the general nature of the formative process. For 
-in the lower and simpler forms of these plants, such as the Desmidieae, Meso- 
-carpeae, and other Conjugatae, we find that there is no distinction in structure 
-or form to be perceived between the two cells which unite in what is termed 
-conjugation ; and a complete fusion or intermixture of the two masses of 
-protoplasm results in the production of a single, usually spherical, mass holding 
-the place of an embryo. And that there is an absence of specialization be- 
-tween the two uniting cells is clearly shown, in both Desmidium and Meso- 
-carpus, by the fact that the embryo or zygospore is formed in the mass 
-resulting from the union of the protruded portions of the two cells ; while 
-in more ordinary cases, as in Spirogyra, where the embryo is formed in 
-one of the two cells, it seems to be indifferent in which of them it is 
-formed. 
+In the Algæ and Fungi, however, there are gradations of the differentiation of the two reproductive elements which are of the greatest interest in leading to a comprehension of the general nature of the formative process. For in the lower and simpler forms of these plants, such as the Desmidieæ, Mesocarpeæ, and other Conjugatæ, we find that there is no distinction in structure or form to be perceived between the two cells which unite in what is termed conjugation; and a complete fusion or intermixture of the two masses of protoplasm results in the production of a single, usually spherical, mass holding the place of an embryo. And that there is an absence of specialization between the two uniting cells is clearly shown, in both _Desmidium_ and _Mesocarpus_, by the fact that the embryo or zygospore is formed in the mass resulting from the union of the protruded portions of the two cells; while in more ordinary cases, as in _Spirogyra_, where the embryo is formed in one of the two cells, it seems to be indifferent in which of them it is formed.
 
-From this, which may be regarded as the most elementary tj^pe of new 
-production by the union of two cells, the transition is not a great one to 
-the development of a progeny without any such union. We might conjecture, 
-then, that the capacity for separate or individual existence extends in the 
-lowest organisms to the whole or to each structural element of their organi- 
-zation, while as we rise in the scale of vegetable life (and the same view 
-might apply to the animal kingdom) this capacity is more and more divided 
-between the two productive elements, or, at least, is only called into full 
-action by their combination. 
+From this, which may be regarded as the most elementary type of new production by the union of two cells, the transition is not a great one to the development of a progeny without any such union. We might conjecture, then, that the capacity for separate or individual existence extends in the lowest organisms to the whole or to each structural element of their organization, while as we rise in the scale of vegetable life (and the same view might apply to the animal kingdom) this capacity is more and more divided between the two productive elements, or, at least, is only called into full action by their combination.
 
-The germinal element of plants thus consists of a simple primordial cell, 
-varying in different kinds, but in all of them probably containing the essential 
-substance protoplasm ; and the most immediate result or effect of fertilization 
-is the multiplication by repeated fissiparous division of the previously existing 
-cells. The new individual resulting from this cellular growth usually remains 
+The germinal element of plants thus consists of a simple primordial cell, varying in different kinds, but in all of them probably containing the essential substance protoplasm; and the most immediate result or effect of fertilization is the multiplication by repeated fissiparous division of the previously existing cells. The new individual resulting from this cellular growth usually remains within the parent body, without, however, direct union or continuity of tissue, till the embryo has attained some advancement, as in the well-known case of the seeds of a phanerogam; but there are many varieties in the mode of its disposition among the lower plants.
 
+A remarkable exception to the more direct relation of the process of fertilization to the formation of the new individual or embryo occurs in some plants, simulating in some respects that kind of variation in animal reproduction which has been named alternate generation. A well-known instance of this is observed in the Vascular Cryptogams. The prothallium of the Ferns, for example, results from the development of so-called spores or unicellular buds, which are familiar as being formed in small capsules on the lower leaf-surface; and in this prothallium, when it has reached a certain stage of vegetation, there are formed the archegonia, containing the oospheres or germ-cells, which are fertilized by the moving ciliated particles developed in the cells of the antheridia, the process resulting in the production of a new spore-bearing frond or fern-plant.
 
-within the iiarent body, without, however, direct union or continuity of tissue, 
-till the embryo has attained some advancement, as in the well-known case of 
-the seeds of a phanerogam ; but there are many varieties in the mode of its 
-disposition among the lower plants. 
+Recent researches have also called attention to the remarkable arrangements in many Phanerogamic plants for the prevention of fertilization of the pistils by pollen from the same flower, or even from the same plant. In the latter case this is effected by the separation of stamens and pistils in different flowers. In the former case, where both organs occur in the same flower, the adaptations, whether of a mechanical or of a physiological character, by which self-fertilization is prevented, as ascertained by numerous recent investigations (among which those of Darwin are most conspicuous), are of the most varied and often the most complicated kind.
 
-A remarkable exception to the more direct relation of the process of ferti- 
-lization to the formation of the new individual or embryo occurs in some 
-plants, simulating in some respects that kind of variation in animal reproduc- 
-tion which has been named alternate generation. A well-known instance of 
-this is observed in the Vascular Cryptogams. The prothallium of the Ferns, 
-for example, results from the development 'of so-called spores or unicellular 
-buds, which are familiar as being formed in small capsules on the lower leaf- 
-surface ; and in this prothallium, when it has reached a certain stage of vege- 
-tation, there are formed the archegonia, containing the oospheres or germ- 
-cells, which are fertilized by the moving ciliated particles developed in the 
-cells of the antheridia, the process resulting in the production of a new 
-spore-bearing frond or fern-plant. 
+Let us now turn to the consideration of the Development of Animals; and let me say in the outset that it will be necessary for me to confine my remarks chiefly to the higher or vertebrated animals, and to certain parts only of the history of their development --- more particularly the structure and formation of the ovum or egg, some of its earlier developmental changes, and the relation of these to the formation of the new animal.
 
-Recent researches have also called attention to the remarkable arrange- 
-ments in many Phanerogamic plants for the prevention of fertilization of the 
-pistils by pollen from the same flower, or even from the same plant. In the 
-latter case this is effected by the separation of stamens and pistils in different 
-flowers. In the former case, where both organs occur in the same flower, 
-the adaptations, whether of a mechanical or of a physiological character, by 
-which self-fertilization is prevented, as ascertained by numerous recent inves- 
-tigations (among which those of Darwin are most conspicuous), are of the 
-most varied and often the most complicated kind. 
+I cannot enter upon the consideration of this topic without adverting to the very recent acquisition of some of the most important facts upon which this branch of knowledge is founded; and I feel it to be peculiarly appropriate, in the year of his death, to refer to a Biologist whose labours contributed more powerfully than those of any other person to give to animal embryology the character of a systematic branch of science, and to whom we owe some most important original discoveries --- I mean Karl Ernest von Baer of Königsberg, St. Petersburg, and Dorpat.
 
-Let us now turn to the consideration of the Development of Animals ; 
-and let me say in the outset that it will be necessary for me to conflne my 
-remarks chiefly to the higher or vertebrated animals, and to certain parts 
-only of the history of their development --- more particularly the structure and 
-formation of the ovum or egg, some of its earlier developmental changes, and 
-the relation of these to the formation of the new animal. 
+Of observers who, previous to Von Baer, were mainly instrumental in preparing the way for the creation of a more exact modern science of embryology only two can be mentioned, viz. Caspar Frederick Wolff of St. Petersburg, well known as the author of a work entitled 'Theoria Generationis,' published in 1759, by which the _epigenesis_ or actual formation of organs in a new being was first demonstrated, and Christian Pander, who, by his researches made at Würzburg, explained, in a work published in 1817, the principal changes by which the embryo arises and is formed.
 
-I cannot enter upon the consideration of this topic without adverting to 
-the very recent acquisition of some of the most important facts upon which 
-this branch of knowledge is founded; and I feel it to be peculiarly appropriate, 
-in the year of his death, to refer to a Biologist whose labours contributed 
-more powerfully than those of any other person to give to animal embryology 
-the character of a systematic branch of science, and to whom we owe some 
-most important original discoveries --- I mean Karl Ernest von Baer of 
-Konigsberg, Sti Petersburg, and Dorpat. 
+Von Baer was born in the Russian province of Esthonia on the 29th of February, 1792. After having been fifteen years Professor in the Prussian University of Königsberg, he was called to St. Petersburg, and having some years later been appointed to a newly established professorship of Comparative Anatomy and Physiology, he remained in that city for nearly thirty years as the most zealous and able promoter of scientific education and research, stimulating and guiding all around him by his unexampled activity, comprehensive and original views, sound judgment, and cordial cooperation. In 1868, at the age of 76, he retired to Dorpat, from the University of which he had received his degree in 1814, and continued still to occupy himself with working and writing in his favourite subjects, as well as interesting himself in every thing connected with educational and scientific progress, to very near the time of his death, which occurred on the 28th of November, 1876, in his 85th year.
 
-Of observers who, previous to Von Baer, were mainly instrumental in 
-preparing the way for the creation of a more exact modern science of embry- 
-ology only two can l)e mentioned, viz. Caspar Frederick Wolfl' of St. Peters- 
+Although Von Baer's researches, according to the light in which we may now view them, contributed in no small degree to the introduction of the newer views of the morphological relations of organic structure which have culminated in the Theory of Descent, yet he was unwilling to adopt the views of Darwin; and one of his latest writings, completed in the last year of his life, was in vigorous opposition to that doctrine.
 
-burg, well knowu as the author of a work entitled ‘ Theoiia Generationis,' 
-published iu 1759, by which the epiyemsis or actual formation of organs 
-in a new being was first demonstrated, and Christian Pander, who, by his 
-researches made at Wurzburg, explained, in a work published in 1817, the 
-principal changes by which the embryo arises and is formed. 
+It would have been most interesting and instructive to trace the history of the progress of discovery in Embryology from the period of Von Baer down to the present time; but such a history would not be suitable to the purpose of this address; and I can only venture here, in addition to Rathke, the colleague of Baer in Königsberg, to select two names out of the long list of distinguished workers in this field during the last forty years, viz.:--- Theodor F. W. von Bischoff, of Giessen and Munich, to whom we owe the greatest progress in the knowledge of the development of Mammals, by his several memoirs, appearing from 1842 to 1854; and Robert Remak, of Berlin, whose researches on the development of Birds and Batrachia, appearing from 1850 to 1855, gave greatly increased exactness and extension to the general study of development.
 
-Von Baer was born in the Eussian province of Esthonia on the 29th of 
-February, 1792. After having been fifteen years Professor in the Prussian 
-University of Konigsberg, he was called to St. Petersburg, and having some 
-years later been appointed to a newly established professorship of Compara- 
-tive Anatomy and Physiology, he remained in that city for nearly thirty years 
-as the most zealous and able promoter of scientific education and research, 
-stimulating and guiding all around him by his unexampled activity, compre- 
-hensive and original views, sound judgment, and cordial cooperation. In 
-1868, at the age of 76, he retired to Dorpat, from the University of which 
-he had received his degree in 1814, and continued still to occupy himself with 
-working and writing in his favourite subjects, as well as interesting himself 
-in every thing connected with educational and scientific progress, to very 
-near the time of his death, which occurred on the 28th of November, 1876, 
-in his 85th jnar. 
+The germinal element from which, when fertilized, the new animal is derived is contained within the animal ovum or egg --- a compact and definite mass of organic matter, in which, notwithstanding great apparent variations, there is maintained throughout all the members of the animal kingdom, excepting the Protozoa, which are destitute of true ova, a greater uniformity in some respects than belongs to the germinal product of plants.
 
-Although Von Baer's researches, according to the light in which we may 
-now view them, contributed in no small degree to the introduction of the 
-newer views of the morphological relations of organic structure which have 
-culminated in the Theory of Descent, jmt he was unwilling to adopt the views 
-of Darwin ; and one of his latest writings, completed in the last jmar of his 
-life, was in vigorons opposition to that doctrine. 
+Usually more or less spherical in form, the animal ovum presents the essential characters of a "complete cell," in the signification given by Schwann to that term. The germinal substance is enclosed by an external vesicular membrane or _cell-wall_. Within this covering the _cell-substance_ (generally named yolk or vitellus, from the analogy of the fowl's egg) consists, to a greater or less extent, of a mass of protoplasm; and imbedded in this mass, in a determinate situation, there is found a smaller internal vesicular body, the _germinal vesicle_ or nucleus, and within that the somewhat variable _macula_ or nucleolus.
 
-It would have been most interesting and instructive to trace the history of 
-the progress of discovery iu Embryology from the period of Von Baer down 
-to the present time ; but such a history would not be suitable to the purpose 
-of this address ; and I can only venture here, in addition to Eathke, the 
-colleague of Baer in Konigsberg, to select two names out of the long list of 
-distinguished workers in this field during the last forty years,viz. : --- Theodor F. 
-"i'f. von Bischoff, of Giessen and Munich, to whom we owe the greatest progress 
-in the knowledge of the development of Mammals, by his several memoirs, 
-appearing from 1842 to 1854; andEobert Eemak, of Berlin, whose researches 
-on the development of Birds and Batrachia, appearing from 1850 to 1855, 
-gave greatly increased exactness and extension to the general study of deve- 
-lopment. 
+Now the first thing which strikes us as remarkable connected with the ovum is the very great variation in its size as compared with the entire animal to which it belongs, while in all of them the same simple or elementary structure is maintained. The ovum of mammals, for example (discovered by Von Baer in 1827) is a comparatively small body, of the average diameter of about 1/150 of an inch, and consequently scarcely weighing more than a minute fraction of a grain, perhaps not more than the 1/12000 part. And further, in two animals differing so widely in size as the elephant and the mouse, the weights of which may stand towards each other in the proportion of 150,000 to 1, there is scarcely any difference in the size of the mature ovum.
 
-The germinal element from which, when fertilized, the new animal is 
-derived is contained within the animal ovum or egg --- a compact and definite 
-mass of organic matter, in which, notwithstanding great apparent variations, 
-there is maintained throughout all the members of the animal kingdom, 
-excepting the Protozoa, which are destitute of true ova, a greater uniformity 
-in some respects than belongs to the germinal product of plants. 
+On the other hand, if we compare this small ovum of the mammal with the yolk of the egg in the common fowl, the part to which it most nearly corresponds, it may be estimated that the latter body would contain above three millions of the smaller ova of a mammal.
 
-Usually more or less spherical in form, the animal ovum presents the 
-essential characters of a " complete cell," in the signification given by Schwann 
-to that term. The germinal substance is enclosed by an external vesicular 
-membrane or cell-wall. Within this covering the cell-substance (generally 
-named yolk or vitellus, from the analogy of the fowl's egg) consists, to a greater 
-or less extent, of a mass of protoplasm ; and imbedded in this mass, in a deter- 
-minate situation, there is found a smaller internal vesicular body, the germi- 
-nal vesicle or nucleus, and within that the somewhat variable macula or 
-nucleolus. 
+The attribute of size, however, in natural objects ceases to excite feelings of wonder or surprise as our knowledge of them increases, whether that be by familiar observation or by more scientific research. We need not, at all events, on account of the apparent minuteness of the ovum of the mammifer or of any other animal, have any doubts as to the presence of a sufficient amount of germinal substance for explaining in the most materialistic fashion the transmission of the organic and other properties and resemblances between the parent and offspring. For we are led to believe, by those who have recently given their attention to the size of molecules composing both living and dead matter, that in such a body as this minute ovum of the mammal there may be as many as five thousand billions of molecules; and even if we restrict ourselves to the smaller germinal vesicle, and, indeed, to the smallest germinal particle which might he made visible by the highest microscopic enlargement, there are still sufficient molecules for all the requirements of the most exacting material biologist.*
 
-Now the first thing which strikes us as remarkable connected with the 
-ovum is the very great variation in its size as compared with the entire animal 
-to which it belongs, while in aU of them the same simple or elementary struc- 
-ture is maintained. The ovum of mammals, for example (discovered by Von 
-Baer in 1827) is a comparatively small body, of the average diameter of 
-about of an inch, and consequently scarcely weighing more than a 
-minute fraction of a grain, perhaps not more than the part. And 
+*) According to a calculation made by Mr. Sorby, the number of molecules in the germinal vesicle of the mammalian ovum is such that if one molecule were to be lost in every second of time, the whole would not be exhausted in seventeen years. See Address to the Microscopic Society, in Journ. of Microscop. Science, vol. 15. p. 225, and 'Nature,' vol. 13. p. 332. See also Darwin on "Pangenesis," in his work on 'Variations,' etc. (1868), vol. 2. p. 374, and the Review by Ray Lankester of Haeckel's work, 'Perigenesis der Blastidule,' etc., in 'Nature' for 1876, p. 235, and Ray Lankester's essay on 'Comparative Longevity,' 1870.
 
-further, in two animals differing so widely in size as the elephant and the 
-mouse, the weights of which may stand towards each other in the proportion 
-of 150,000 to 1, there is scarcely any difference in the size of the mature 
-ovum. 
+This great disparity of size, however, is connected with an important difference in the disposition of the yolk-substance, according to which ova may be distinguished as of two kinds --- the large --- and the small-yolked ova, between which there are also many intermediate gradations. The larger-yolked ova belong to the whole tribe of birds, scaly reptiles, osseous and cartilaginous fishes, and the Cephalopods among the Invertebrates; and are distinguished by the strictly germinal part or protoplasm being collected into a small disk, known familiarly as the cicatricula of the fowl's egg, and to be seen as a whitish spot on that side of the yolk which naturally floats uppermost, while the rest of the yolk, of a deeper yellow colour, contains a large quantity of vitelline granules or globules of a different chemical nature from the protoplasm.
 
-On the other hand, if we compare this small ovum of the mammal with 
-the yolk of the egg in the common fowl, the part to which it most nearly 
-corresponds, it may be estimated that the latter body would contain above 
-three millions of the smaller ova of a mammal. 
+The phenomena of embryonic development are, in the first instance at least, confined to the germinal disk, and the rest of the yolk serves in a secondary or more remote manner to furnish materials for nourishment of the embryo and its accessory parts. Thus we distinguish the germinal from the nutritive or food-yolk, or, as the younger Van Beneden has named them, the _protoplasm_ and the _deutoplasm_.
 
-The attribute of size, however, in natural objects ceases to excite feelings 
-of wonder or surprise as our knowledge of them increases, whether that be 
-by familiar observation or by more scientific research. We need not, at all 
-events, on account of the apparent minuteness of the ovum of the mammifer 
-or of any other animal, have any doubts as to the presence of a sufficient amount 
-of germinal substance for explaining in the most materialistic fashion the 
-transmission of the organic and other properties and resemblances between the 
-parent and offspring. For we are led to believe, by those who have recently 
-given their attention to the sixe of molecules composing both living and dead 
-matter, that in such a body as this minute ovum of the mammal there may 
-he as many as five thousand billions of molecrdes ; and even if we restrict 
-ourselves to the smaller genninal vesicle, and, indeed, to the smallest germinal 
-particle which might he made visible by the highest microscopic enlargement, 
-there are still sufficient molecules for all the requirements of the most exact- 
-ing material biologist *. 
+In the smaller ovum of the mammal, on the other hand, it seems as if the whole, or nearly the whole, of the yolk were protoplasmic or germinal. There may be some admixture of yolk-granules; but there is not the marked separation or limitation of the protoplasmic substance which is so distinct in birds, and the earliest changes of development extend to the whole component substance of the yolk, or, in other words, the yolk is entirely germinal. Hence some have given the names of _meroblastic_ and _holoblastic_ (meaning partially and entirely germinal) to these two contrasting forms of ova. There are many of the invertebrate animals of which the ova present the same entirely germinal arrangement as in those of mammals, and the _Amphioxus_ may be included in the same group.
 
-* According to a calculation made by Mr. Sorby, the number of molecules in the ger- 
-minal vesicle of the mammalian ovum is such that if one molecule were to be lost in every 
-second of time, the whole would not be exhausted in seventeen years. See Address to the 
-Micro.scopic Society, in Journ. of Microscop. Science, vol. xv. p. 22.5, and ‘ Nature,' vol. 
-xiii. p. 332. See also Darwin on "Pangenesis," in his work on ‘Variations,' &c. (1868), 
+The Amphibia stand in some measure between the two extremes --- the purely protoplasmic or germinal part occupying one side, and the nutritive or vitelline the other. But among the Invertebrates the gradations are often such as to make it difficult to determine under which group the ova should be placed.
 
-This great disparity of size, however, is connected with an important 
-difference in the disposition of the yolk-suhstance, according to which 
-ova may be distinguished as of two kinds --- the large- and the small-yolked 
-ova, between which there are also many intennediato gradations. The 
-larger-yolked ova belong to the whole tribe of birds, scaly reptiles, osseous 
-and cartilaginous fishes, and the Cephalopods among the Invertebrates ; and 
-are distinguished by the strictly germinal part or protoplasm being collected 
-into a small disk, known familiarly as the cicatricida of the fowl's egg, and 
-to be seen as a whitish spot on that side of the yolk which naturally floats 
-uppermost, while the rest of the yolk, of a deeper yellow colour, contains 
-a large quantity of vitelline granules or globules of a different chemical 
-nature from the protoplasm. 
+The genesis or formation of the ovum itself, if it be considered with reference to its first origin, carries us back to a very early period of the development of the parent in which it is produced; and it is one of the most interesting problems to determine what is the source of the cells in the parent from which the reproductive elements originally spring. All that I can venture to say at present in regard to this point is, that the primordial ova or germs appear in the parental body, while still embryonic, at a very early period of its development, and clearly derive their origin from a deeply-seated part of the formative cells which are undergoing transformation into the primitive organs; but the exact seat of the origin of the two kinds of reproductive cells is still a matter of doubt.
 
-The phenomena of embryonic development are, in the first instance at 
-least, confined to the germinal disk, and the rest of the yolk serves in a 
-secondary or more remote manner to furnish materials for nourishment of 
-the embryo and its accessory parts. Thus we distinguish the germinal from 
-the nutritive or food-yolk, or, as the younger Van Beneden has named them, 
-the protoplasm and the deutoplasm. 
+When the ovum attains its full maturity in the ovary, the seat of its formation within the parent, it is separated from that organ, and when fertilized proceeds to undergo embryonic development, differing in this respect from the germinal product of the higher plants, in which the embryo is developed in the place of formation of the seed.
 
-In the smaller ovum of the mammal, on the other hand, it seems as if the 
-whole, or nearly the whole, of the yolk were protoplasmic or germinal. 
-There may be some admixture of yolk-granules ; but there is not the 
-marked separation or limitation of the protoplasmic substance which is so 
-distinct in birds, and the earliest changes of development extend to the 
-whole component substance of the yolk, or, in other words, the yolk is entirely 
-germinal. Hence some have given the names of meroblastic and holoblastic 
-(mcaningpartially and entirely germinal) to these two contrasting forms of ova. 
-There are many of the invertebrate animals of which the ova present the 
-same entirely germinal arrangement as in those of mammals, and the Am- 
-phioxus may be included in the same group. 
+The period of maturation of the ovum is marked in the greater number of animals by a series of phenomena which have generally been interpreted as the extrusion or absorption of the germinal vesicle; and various observers have actually traced the steps of the process by which that vesicle appears to leave the yolk and is lost to sight, or has passed into the space between the yolk and its membrane in the shape of the peculiar hyaline bodies named the _polar_ or _directing_ globules. But recent researches, afterwards to be referred to, tend to show that some part at least of the substance of the germinal vesicle remains to form, when combined with the fertilizing element, the newly endowed basis of future development.
 
-The Amphibia stand in some measure between the two extremes--- the 
-purely protoplasmic or germinal part occupying one side, and the nutritive or 
-vitelline the other. But among the Invertebrates the gradations are often 
-such as to make it difiicult to determine under which group the ova should 
-be placed. 
+Among the earliest changes to which the perfect animal ovum is subject, I have first to refer to the segmentation of the germ, a series of phenomena the observation of which has been productive of most important results in leading to a comprehension of the intimate nature of the formative process, and which is of the deepest interest both in a morphological and histological point of view. This process, which was first distinctly observed by Prevost and Dumas more than fifty years ago, and is now known to occur in all animal ova, consists essentially in the cleavage or splitting up of the protoplasmic substance of the yolk, by which it becomes rapidly subdivided into smaller and more numerous elements, so as at last to give rise to the production of an organized stratum of cells out of which, by subsequent changes, the embryo is formed.
 
-The genesis or formation of the ovum itself, if it be considered with refe- 
-rence to its first origin, carries us back to a very early period of the develop- 
-ment of the parent in which it is produced ; and it is one of the most 
-interesting problems to determine what is the source of the cells in the parent 
-from which the reproductive elements originally spring. All that I can ven- 
-ture to say at present in regard to this point is, that the primordial ova or 
+The process of yolk-segmentation may at once be distinguished as of two kinds, according as it affects in the small-yolked ova the whole mass of the yolk simultaneously, or in the large-yolked ova is limited to only one part of it. The cleavage process, in fact, affects the germinal and not the food-yolk; so that to take the two most contrasting instances of the bird and mammal, to which I have before referred, it appears that while the mammal's ovum undergoes entire segmentation, this process is confined to the substance of the cicatricula or germinal disk of the bird's egg. This process is essentially one of cell-division, but it is also in some measure one of cell-formation. The best idea of its nature will be obtained from a short description of the total segmentation occurring in the mammal's ovum.
 
-
-vol. ii. p. 374, and the Review by Ray Lankester of Haeckel's work, ‘ Perigenesis der 
-Blastidule,' &c., in ‘ Nature ' for 1876, p. 235, and Ray Lankester's essay on ‘ Comparative 
-Longevity,' 1870. 
-
-germs appear in the parental body, while still embryonic, at a very eai-ly period 
-of its development, and clearly derive their origin from a deeply-seated part 
-of the formative cells which are undergoing transformation into the primitive 
-organs ; but the exact seat of the origin of the two kinds of reproductive 
-cells is still a matter of doubt. 
-
-When the ovum attains its full maturity in the ovary, the seat of its 
-formation within the parent, it is separated from that organ, and when fer- 
-tilized proceeds to undergo embryonic development, differing in this respect 
-from the germinal product of the higher plants, in which the embryo is deve- 
-loped in the place of formation of the seed. 
-
-The period of maturation of the ovum is marked in the greater number 
-of animals by a series of phenomena which have generally been interpreted 
-as the extrusion or absorption of the germinal vesicle ; and various observers 
-have actually traced the steps of the process by which that vesicle appears 
-to leave the yolk and is lost to sight, or has passed into the space between 
-the yolk and its membrane in the shape of the peculiar hyaline bodies named 
-the polar or directing globules. But recent researches, afterwards to be 
-referred to, tend to show that some part at least of the substance of the ger- 
-minal vesicle remains to fonn, when combined with the fertilizing element, 
-the newly endowed basis of future development. 
-
-Among the earliest changes to which the perfect animal ovum is subject, 
-I have first to refer to the segmentation of the germ, a series of phenomena 
-the observation of which has been productive of most important results in 
-leading to a comprehension of the intimate nature of the formative process, 
-and which is of the deepest interest both in a morphological and histo- 
-logical point of view. This process, which was first distinctly observed by 
-Prevost and Dumas more than fifty years ago, and is now known to occur in 
-all animal ova, consists essentially in the cleavage or splitting up of the 
-protoplasmic substance of the yolk, by which it becomes rapidly subdivided 
-into smaller and more numerous elements, so as at last to give rise to the 
-pi'oduction of an organized stratum of cells out of which, by subsequent 
-changes, the embryo is formed. 
-
-The process of yolk-segmentation may at once be distinguished as of two 
-kinds, according as it affects in the small-yolked ova the whole mass of the 
-yolk simultaneously, or in the large- yolked ova is limited to only one part of 
-it. The cleavage process, in fact, affects the germinal and not the food-yolk ; 
-so that to take the two most contrasting instances of the bird and mammal, 
-to which I have before referred, it appears that while the mammal's ovum 
-undergoes entire segmentation, this process is confined to the substance of the 
-cicatricula or germinal disk of the bird's egg. This process is essentially one 
-of cell-division, but it is also in some measure one of cell-formation. The 
-best idea of its nature will be obtained from a short description of the total 
-segmentation occurring in the mammal's ovum. 
-
-When, as before mentioned, the germinal vesicle has been in part ex- 
-truded or lost to sight, the whole yolk-substance of the ovum forms a nearly 
-uniform mass of finely granular protoplasm, enclosed within the external 
-cell-membrane. Within a few hours later a clear nucleus has arisen in this 
-mass. To this more definite form of organization assumed by the germinal 
-substance of the future animal, which is about to be the subject of the seg- 
-menting process, the name of the first segment-sphere may be given. 
+When, as before mentioned, the germinal vesicle has been in part extruded or lost to sight, the whole yolk-substance of the ovum forms a nearly uniform mass of finely granular protoplasm, enclosed within the external cell-membrane. Within a few hours later a clear nucleus has arisen in this mass. To this more definite form of organization assumed by the germinal substance of the future animal, which is about to be the subject of the segmenting process, the name of the first segment-sphere may be given.
 
 By the process of cleavage which now begins, this first segment- sphere 
 and its nucleus undergo division into two nucleated spheres of smaller size, 
