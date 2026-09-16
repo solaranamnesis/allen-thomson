@@ -219,255 +219,40 @@ The notochord is a continuous median column or thread of cellular structure runn
 
 In Amphioxus and the Cyclostomatous Fishes the notochord, growing with the rest of the body into a highly developed form, acts as a substitute for the pillar of the bodies of the vertebræ, no vertebral bodies being developed; but in Cartilaginous and Osseous Fishes various gradations of cartilaginous and osseous structures come to surround the notochord and give rise to the simpler forms of vertebral bodies, which undergo more and more distinct development in the higher vertebrates. In all instances the substance forming the vertebral bodies is deposited on the surface of or outside the notochord and its sheath, so that this body remains for a time as a vestigial structure within the vertebral bodies of the higher animals.
 
-The ohservations of Kowalevsky with respect to the existence of a notochord 
-in the Ascidia, which have been confirmed by Kupfer and others, have pro- 
-duced a change little short of revolutionary in embryological and zoological 
-views, leading as they do to the support of the hypothesis that the Ascidian 
-is an earlier stage in the phylogenetic history of the mammal and other 
-Vertebrates. The analogy between the Amphioxus and Ascidian larva is 
-certainly most curious and striking as regards the relation of the notochord 
-to other parts ; and it is not difficult to conceive such a change in the form 
-and position of the organs in their passage from the embryonic to the adult 
-state as is not inconsistent with the supposition that the Vertebrates and 
-the Ascidia may have had a common ancestral form. Kowalevsky's discover}' 
-opens up at least an entirely new path of inquiry ; and necessitates the modi- 
-fication of our views as to the entire separation of the Vertebrates from the 
-other groups of animals, if we do not at once adopt the hypothesis that 
-through the Ascidian and other forms the origin of the Vertebrates may be 
-traced downwards in the series to the lower grades of animal organization. 
+The observations of Kowalevsky with respect to the existence of a notochord in the Ascidia, which have been confirmed by Kupfer and others, have produced a change little short of revolutionary in embryological and zoological views, leading as they do to the support of the hypothesis that the Ascidian is an earlier stage in the phylogenetic history of the mammal and other Vertebrates. The analogy between the Amphioxus and Ascidian larva is certainly most curious and striking as regards the relation of the notochord to other parts; and it is not difficult to conceive such a change in the form and position of the organs in their passage from the embryonic to the adult state as is not inconsistent with the supposition that the Vertebrates and the Ascidia may have had a common ancestral form. Kowalevsky's discovery opens up at least an entirely new path of inquiry; and necessitates the modification of our views as to the entire separation of the Vertebrates from the other groups of animals, if we do not at once adopt the hypothesis that through the Ascidian and other forms the origin of the Vertebrates may be traced downwards in the series to the lower grades of animal organization.
 
-The notochord extends a short way forward into the cranial basis ; and an 
-interesting question here presents itself, beginning with the speculations of 
-Goethe and Oken, and stiU forming a subject of discussion, whether the series 
-of cranial or cephalic bones is comparable to that of the vertebrae. On the 
-whole it appears to me that it is consistent with the most recent views of the 
-development and anatomy of the head to hold the opinion that it is composed 
-of parts which are to some extent homologous with vertebral metameres t. 
+The notochord extends a short way forward into the cranial basis; and an interesting question here presents itself, beginning with the speculations of Goethe and Oken, and still forming a subject of discussion, whether the series of cranial or cephalic bones is comparable to that of the vertebræ. On the whole it appears to me that it is consistent with the most recent views of the development and anatomy of the head to hold the opinion that it is composed of parts which are to some extent homologous with vertebral metameres.*
 
-The history of the formation of the vertebral column presents an interesting 
-example of the correspondence in the development of the individual and the 
-race, in that all the stages which have been referred to as occurring in the 
-gradual evolution of the vertebral column in the series of Vertebrates are 
+*) See the interesting and valuable memoirs of W. K. Parker, "On the Anatomy and Development of the Vertebrate Skull," in Trans. of Roy. Soc., the researches of Gegenbaur, Mihalkovics, and more particularly the memoir by F. M. Balfour, "On the Development of the Elasmobranchs," in the Journ. of Anat. and Physiol. vols. 10. and 11.
 
+The history of the formation of the vertebral column presents an interesting example of the correspondence in the development of the individual and the race, in that all the stages which have been referred to as occurring in the gradual evolution of the vertebral column in the series of Vertebrates are repeated in the successive stages of the embryonic development of the higher members of the series.
 
+There is perhaps no part of the history of development in the Vertebrates which illustrates in a more striking manner the similarity of plan which runs through the whole of them than that connected with what I may loosely call the region of the face and neck, including the apparatus of the jaws and gills. The embryonic parts I now refer to consist of a series of symmetrical pairs of plates which are developed at an early period below the cranium, and may therefore, in stricter embryological terms, be styled the _subcranial plates_.
 
-+ See tlie interesting and valuable memoirs of W. K. Parker, " On the Anatomy and 
-Development of the Vertebrate Skull," in Trans, of Eoy. Soc., the researches of Gegenbaur, 
-Mihalkovics, and more particularly the memoir by F. M. Balfour, " On the Development 
-of the Elasmobranchs," in the Journ. of Anat. and Physiol, vols. x. and xi. 
+Without attempting to follow out the remarkable changes which occur in the development of the nose and mouth in connexion with the anterior set of these plates (which, from being placed before the mouth, are sometimes named _preoral_), I may here refer shortly to the history of the plates situated behind the mouth, which were discovered by Rathke in 1826, and formed the subject of an elaborate investigation by Reichert in 1837.
 
-repeated in the successive stages of the embryonic development of the higher 
-members of the series. 
+These plates consist of a series of symmetrical bars, four in number in mammals and birds, placed immediately behind the mouth, separated by clefts passing through the wall of the throat, and each traversed by a division of the great artery from the heart --- thus constituting the type of a branchial apparatus, which in fishes and amphibia becomes converted into the well-known gills of these animals; whilst in reptiles, birds, and mammals they undergo various changes leading to the formation of very different parts, which could not be recognized as having any relation to gill-structure, but for the observation of their earlier embryonic condition. The history of this part of development also possesses great interest on account of the extraordinary degree of general resemblance which it gives to the embryos of man and the most different animals at a certain stage of advancement (so great, indeed, that it requires a practised eye to distinguish between them though belonging to different orders of mammals, and even between some of them and the embryos of birds or reptiles), as well as in connexion with the transformations of the first pair of branchial apertures, which lead to the formation of the passage from the throat to the ear in the higher Vertebrata. There is equal interest attached to the history of the development of the first pair of arches which include the basis of formation of the lower jaw with the so-called _cartilage of Meckel_, and which, while furnishing the bone which suspends the lower jaw in reptiles and birds, is converted in mammals into the hammer-bone of the ear.
 
-There is perhaps no part of the history of development in the Vertebrates 
-which illustrates in a more striking manner the similarity of plan which runs 
-through the whole of them than that connected with what I may loosely call 
-the region of the face and neck, including the apparatus of the jaws and gills. 
-The embryonic parts I now refer to consist of a series of symmetrical pairs of 
-plates which are developed at an early period below the cranium, and may 
-therefore, in stricter embryological terms, be styled the subcranial plates. 
+The other arches undergo transformations which are hardly less marvellous, and the whole series of changes is such as never fails to impress the embryological inquirer with a forcible idea of the persistence of type and the inexhaustible variety of changes to which simple and fundamental parts may be subject in the process of their development.
 
-Without attempting to follow out the remarkable changes which occur in 
-the development of the nose and mouth in connexion with the anterior set of 
-these plates (which, from being placed before the mouth, are sometimes 
-named I may here refer shortly to the history'of the plates situated 
+It is also of deep significance, in connexion with the foregoing phenomena, to observe the increase in the number of the gill-bars and apertures as we descend in the scale to the cartilaginous fishes and lampreys, and the still further multiplication of these metameres or repeated parts in the Amphioxus; and it is interesting to note that in the Ascidia the arrangement of the gills is exactly similar to that of the Amphioxus.
 
-behind the mouth, which were discovered by Rathke in 1826, and formed 
-the subject of an elaborate investigation by Reichert in 1837. 
+The study of the comparative anatomy of the heart and its mode of formation in the embryo furnishes another striking illustration of the relation between ontogenetic and phylogenetic development in the Vertebrates, and is not without its applications to some of the invertebrate groups of animals.
 
-These plates consist of a series of symmetrical bars, four in number in 
-mammals and birds, placed immediately behind the mouth, separated by 
-clefts passing through the wall of the throat, and each traversed by a division 
-of the great artery from the heart --- thus constituting the type of a branchial 
-apparatus, which in fishes and amphibia becomes converted into the well-known 
-gills of these animals ; whilst in reptiles, birds, and mammals they undergo 
-various changes leading to the formation of very different parts, which could 
-not be recognized as having any relation to gill-structure, but for the obser- 
-vation of their earlier embryonic condition. The history of this part of deve- 
-lopment also possesses great interest on account of the extraordinary degree 
-of general resemblance which it gives to the embryos of man and the most 
-different animals at a certain stage of advancement (so great, indeed, that it 
-requires a practised eye to distinguish between them though belonging to 
-different orders of mammals, and even between some of them and the embryos 
-of birds or reptiles), as well as in connexion with the transformations of the 
-first pair of branchial apertures, which lead to the formation of the passage 
-from the throat to the ear in the higher Yertebrata. There is equal interest 
-attached to the history of the development of the first pair of arches which 
-include the basis of formation of the lower jaw with the so-called cartilage of 
-Meclcel., and which, while furnishing the bone which suspends the lower jaw in 
-reptiles and birds, is converted in mammals into the hammer-bone of the ear. 
+I need only recall to your recollection the completely double state of this organ in warm-blooded animals, by which a regular alternation of the systemic and pulmonary circulations is secured, --- the series of gradations through the class of Reptiles by which we arrive at the undivided ventricle of the amphibian, and the further transition in the latter animals by which we come at last to the single heart of fishes; and state that in the embryo of the higher animals the changes by which the double heart is ultimately developed out of an extremely simple tubular shape, into which it is at first moulded from the primitive formative cells, are, in the inverse order, entirely analogous to those which I have just now indicated as traceable in the descending series of vertebrate animals; so that at first the embryonic heart of man and other warm-blooded animals is nothing more than a rhythmically contractile vascular tube. By the inflection of this tube, the constriction of its wall at certain parts, and the dilatation at others, the three chambers are formed which represent the single auricle, the single ventricle, and the aortic bulb of the fish. By later changes a septum is formed to divide the auricles, becoming completed in all the air-breathing animals, but remaining incomplete in the higher animals so long as the conditions of fœtal life prevent the return of arterialized blood to the left auricle. The growth of another septum within the ventricular portion gradually divides that cavity into two ventricles, repeating somewhat in its progress the variations observed in different reptiles, and attaining its complete state in the crocodile and warm-blooded animals.
 
-The other arches undergo transformations which are hardly less marvel- 
-lous, and the whole series of changes is such as never fails to impress the 
-embryological inquirer with a forcible idea of the persistence of typo and 
-the inexhaustible variety of changes to which simple and fundamental parts 
-may be subject in the process of their development. 
+I must not attempt to pursue this interesting subject further; but I cannot avoid making reference to the instructive view presented by the embryological study of the nature of the malformations to which the heart is subject, which, as in many other instances, are due to the persistence of transitory conditions which belong to different stages of progress in the development of the embryo. Nor can I do more than allude to the interesting series of changes by which the aortic bulb, remaining single in fishes and serving as the channel through which the whole stream of blood leaving the heart is passed into the gills, becomes divided in the higher animals into the roots of the two great vessels, the aorta and the pulmonary artery, and the remarkable transformations of the vascular arches which proceed from the aortic bulb along the several branchial arches, and which, in the gills of fishes and aquatic Amphibia, undergo that minute subdivision which belongs to the vascular distribution of gills, but which in the higher non-branchiated animals are the subject of very different and various changes, in the partial obliteration of some and the enlargement of others, by which the permanent vessels are produced.
 
-It is also of deep significance, in connexion with the foregoing phenomena. 
+These changes and transformations have for many years been a subject of much interest to comparative anatomists, and will continue to be so, not only from their presenting to us one of the most remarkable examples of conformity in the plan of development and the type of permanent or completed organization in the whole series of vertebrated animals, but also because of the manifest dependence of the phenomena of their development upon external influences and atmospheric conditions affecting the respiration, nutrition, and modes of life of the animal.
 
-to observe the increase in the number of the gill-bars and apertures as we 
-descend in the scale to the cartilaginous fishes and lampreys, "and the still 
-further multiplication of these metameres or repeated parts in the Amphioxus ; 
-and it is interesting to note that in the Ascidia the arrangement of the giUs is 
-exactly similar to that of the Amphioxus. 
+Nor is the correspondence to which I now refer entirely limited to the Vertebrata. For here, again, through the Amphioxus and the Ascidia, we come to see how an affinity may be traced between organs of circulation and respiration which at first appear to belong to very different types. The heart of vertebrates is, as is well known, essentially a concentrated form of vascular development in the ventral aspect of the body, while the heart of the invertebrate, whether in the more concentrated form existing in the Articulata and Mollusca or in a more subdivided shape prevalent in the Annelida, is most frequently dorsal; yet the main aorta of the Vertebrates is also dorsal; and it is not impossible, through the intermediate form of Amphioxus, to understand how the relation between the Vertebrate and the Invertebrate type of the blood-vascular system may be maintained.
 
-The study of the comparative anatomy of the heart and its mode of for- 
-mation in the embryo furnishes another strihing illustration of the relation 
-between ontogenetic and phylogenetic development in the Vertebrates, and is 
-not without its applications to some of the invertebrate groups of animals. 
+But I am warned by the lapse of time that I must not attempt to pursue these illustrations further. In the statement which I have made of some of the more remarkable phenomena of organic production --- too long, I fear, for your endurance, but much too brief to do justice to the subject --- it has been my object mainly to show that they are all more or less closely related together by a chain of similarity of a very marked and unmistakable character; that in their simplest forms they are indeed, in so far as our powers of observation enable us to know them, identical; that in the lower grades of animal and vegetable life they are so similar as to pass by insensible gradations into each other; and that in the higher forms, while they diverge most widely in some of their aspects in the bodies belonging to the two great kingdoms of organic nature, and in the larger groups distinguishable within each of them, yet it is still possible, from the fundamental similarity of the phenomena, to trace in the transitional forms of all their varieties one great general plan of organization.
 
-I need only recall to your recollection the completely double state of this 
-organ in warm-blooded animals, by which a regular alternation of the 
-systemic and pulmonary circulations is secured, --- the series of gradations 
-through the class of Eeptiles by which we arrive at the undivided ventricle 
-of the amphibian, and the further transition in the latter animals by which 
-we come at last to the single heart of fishes ; and state that in the embryo 
-of the higher animals the changes by which the double heart is ultimately 
-developed out of an extremely simple tubular shape, into which it is at first 
-moulded from the primitive formative cells, are, in the inverse order, entirely 
-analogous to those which T have just now indicated as traceable in the 
-descending series of vertebrate animals ; so that at first the embryonic heart 
-of man and other warm-blooded animals is nothing more than a rhythmically 
-contractile vascular tube. By the inflection of this tube, the constriction of 
-its wall at certain parts, and the dilatation at others, the three chambers are 
-formed which represent the single auricle, the single ventricle, and the aortic 
-bulb of the fish. By later changes a septum is formed to divide the auricles, 
-becoming completed in all the air-breathing animals, but remaining incom- 
-plete in the higher animals so long as the conditions of foetal life prevent the 
-return of arterialized blood to the left auricle. The growth of another septum 
-within the ventricular portion gradually divides that cavity into two ven- 
-tricles, repeating somewhat in its progress the variations observed in difierent 
-reptiles, and attaining its complete state in the crocodile and warm-blooded 
-animals. 
+In its simplest and earliest form that plan comprises a minute mass of the common nitrogenous hydrocarbon compound to which the name of protoplasm has been given, exhibiting the vital properties of assimilation, reproduction, and irritability. The second stage in this plan is the nucleated and enclosed condition of the protoplasmic mass in the organized cell. We next recognize the differentiation of two productive elements, and their combination for the formation of a more highly endowed organizing element in the embryonic germ-sphere or cell; and the fourth stage of advance in the complexity of the organizing phenomena is in the multiplication of the fertilized embryo-cell and its conversion into continuous organized strata, by further histological changes in which the morphological foundations of the future embryo or new being are laid.
 
-I must not attempt to pursue this interesting subject further; but I cannot 
-avoid making reference to the instructive view presented by the embryo- 
-logical study of the nature of the malformations to which the heart is sub- 
-ject, which, as in many other instances, are due to the persistence of 
-transitory conditions which belong to different stages of progress in the 
-development of the embryo. hTor can I do more than allude to the interest- 
-ing series of changes by which the aortic bulb, remaining single in fishes and 
-serving as the channel through which the whole stream of blood leaving the 
-heart is passed into the gills, becomes divided in the higher animals into the 
-roots of the two great vessels, the aorta and the pulmonary artery, and the 
+I need not now recur to the further series of complications in the formative process by which the bilaminar blastoderm is developed and becomes trilaminar or quadrilaminar, but only recall to your recollection that while these several states of the primordial condition of the incipient animal pass insensibly into each other, there is a pervading similarity in the nature of the histological changes by which they are reached, and that in the production of the endless variations of form assumed by the organs and systems of different animals in the course of their development, the process of cell-production, multiplication, and differentiation remains identical. The more obvious morphological changes are of so similar a character throughout the whole, and so nearly allied in the different larger groups, that we cannot but regard them as placed in some very close and intimate relation to the inherent properties of the organic substance which is their seat, and the ever-present influence of the vital conditions in which alone these properties manifest themselves.
 
-remarkable transformations of the vascular arches which proceed from the 
-aortic bulb along the several branchial arches, and which, in the gills of fishes 
-and aquatic Amphibia, undergo that minute subdivision which belongs to the 
-vascular distribution of gills, but which in the higher non-branchiated animals 
-are the subject of very different and various changes, in the partial obliteration 
-of some and the enlargemejit of others, by which the permanent vessels are 
-produced. 
+The formative or organizing property therefore resides in the living substance of every organized cell and in each of its component molecules, and is a necessary part of the physical and chemical constitution of the organizing elements in the conditions of life; and it scarcely needs to be said that these conditions may be as varied as the countless numbers of the molecules which compose the smallest particles of their substance. But, setting aside all speculation of a merely pangenetic kind, it appears to me that no one could have engaged in the study of embryological development for any time without becoming convinced that the phenomena which have been ascertained as to the first origin and formation of textures and organs in any individual animal are of so uniform a character as to indicate forcibly a law of connexion and continuity between them; nor will his study of the phenomena of development in different animals have gone far before he is equally strongly convinced of the similarity of plan in the development of the larger groups, and, to some extent, of the whole. I consider it impossible therefore for any one to be a faithful student of embryology, in the present state of science, without at the same time becoming an evolutionist. There may still be many difficulties, some inconsistencies, and much to learn, and there may remain beyond much which we shall never know; but I cannot conceive any doctrine professing to bring the phenomena of embryonic development within a general law which is not, like the theory of Darwin, consistent with their fundamental identity, their endless variability, their subjugation to varying external influences and conditions, and with the possibility of the transmission of the vital conditions and properties, with all their variations, from individual to individual, and, in the long lapse of ages, from race to race.
 
-These changes and transformations have for many years been a subject of 
-much interest to comparative anatomists, and will continue to be so, not only 
-from their presenting to us one of the most remarkable examples of confor- 
-mity in the plan of development and the type of permanent or completed 
-.organization in the whole series of vertebrated animals, but also because of 
-the manifest dependence of the phenomena of their development upon ex- 
-ternal influences and atmospheric conditions affecting the respiration, nutri- 
-tion, and modes of life of the animal. 
-
-Nor is the correspondence to which I now refer entirely limited to the 
-Vertebrata. For here, again, through the Amphioxus and the Ascidia, we 
-come to see how an affinity may be traced between organs of circulation and 
-respiration which at first appear to belong to very different types. The 
-heart of vertebrates is, as is well known, essentially a concentrated form of 
-vascular development in the ventral aspect of the body, while the heart of 
-the invertebrate, whether in the more concentrated form existing in the 
-Articulata and Mollnsca or in a more subdivided shape prevalent in the 
-Annelida, is most frequently dorsal ; yet the main aorta of the Vertebrates 
-is also dorsal; and it is not impossible, through the intermediate form of 
-Amphioxus, to understand how the relation between the Vertebrate and the 
-Invertebrate type of the blood-vascular system may be maintained. 
-
-But I am warned by the lapse of time that I must not attempt to pursue 
-these illustrations further. In the statement which I have made of some of 
-the more remarkable phenomena of organic production --- too long, I fear, for 
-your endurance, but much too brief to do justice to the subject --- it has been 
-my object mainly to show that they are all more or less closely related toge- 
-ther by a chain of similarity of a very marked and unmistakable character ; 
-that in their simplest forms they are indeed, in so far as our powers of obser- 
-vation enable us to know them, identical ; that in the lower grades of animal 
-and vegetable life they are so similar as to pass by insensible gradations into 
-each other ; and that in the higher forms, while they diverge most widely in 
-some of their aspects in the bodies belonging to the two great kingdoms of 
-organic nature, and in the larger groups distinguishable within each of them, 
-yet it is stiU possible, from the fundamental similarity of the phenomena, to 
-trace in the transitional forms of all their varieties one great general plan of 
-organization. 
-
-In its simplest and earliest form tliat plan comprises a minute mass of 
-the common nitrogenous hydrocarbon compound to which the name of 
-protoplasm has been given, exhibiting the vital properties of assimilation, 
-reproduction, and irritability. The second stage in this plan is the nucleated 
-and enclosed condition of the protoplasmic mass in the organized cell. We 
-next recognize the differentiation of two productive elements, and their com- 
-bination for the formation of a more highly endowed organizing element in 
-the embryonic germ-sphere or cell ; and the fourth stage of advance in the 
-complexity of the organizing phenomena is in the multiplication of the fer- 
-tilized emhryo-cell and its conversion into continuous organized strata, by 
-further histological changes in which the morphological foundations of the 
-future embryo or new being are laid. 
-
-I need not now recur to the further series of complications in the formative 
-process by which the bilaminar blastoderm is developed and becomes trila- 
-minar or quadrilaminar, but only recall to your recollection that while these 
-several states of the primordial condition of the incipient animal pass insen- 
-sibly into each other, there is a pervading similarity in the nature of the his- 
-tological changes by which they are reached, and that in the production of the 
-endless variations of form assumed by the organs and systems of different 
-animals in the course of their development, the process of cell-production, 
-multiplication, and differentiation remains identical. The more obvious 
-morphological changes are of so similar a character throughout the whole, 
-and so nearly allied in the different larger groups, that we cannot but 
-regard them as placed in some very close and intimate relation to the 
-inherent properties of the organic substance which is their seat, and the 
-ever-present influence of the vital conditions in which alone these properties 
-manifest themselves. 
-
-The formative or organizing property therefore resides in the living sub- 
-stance of every organized cell and in each of its component molecules, and is 
-a necessary part of the physical and chemical constitution of the organizing 
-elements in the conditions of life ; and it scarcely needs to be said that these 
-conditions may be as varied as the countless numbers of the molecules which 
-compose the smallest particles of their substance. But, setting aside all 
-speculation of a merely pangonctic kind, it appears to me that no one could 
-have engaged in the study of embryological development for any time without 
-becoming convinced that the phenomena which have been ascertained as to 
-the first origin and formation of textures and organs in any individual animal 
-are of so uniform a character as to indicate forcibly a law of connexion 
-and continuity between them ; nor will his study of the phenomena of 
-development in different animals have gone far before he is equally strongly 
-convinced of the similarity of plan in the development of the larger groups, 
-and, to some extent, of the whole. I consider it impossible therefore for any 
-one to be a faithful student of embryology, in the present state of science) 
-
-
-without at the same time becoming an evolutionist. There may still bo many 
-difficulties, some inconsistencies, and much to learn, and there may remain 
-beyond much which we shall never know ; but I cannot conceive any doctrine 
-professing to bring the phenomena of embryonic development within a general 
-law which is not, like the theory of Darwin, consistent with their fundamental 
-identity, their endless variability, their subjugation to varying external in- 
-fluences and conditions, and with the possibility of the transmission of the 
-vital conditions and properties, with all their variations, from individual to 
-individual, and, in the long lapse of ages, from race to race. 
-
-I regard it, therefore, as no exaggerated representation of the present state 
-of our knowledge to say that the ontogenetic development of the individual 
-in the higher animals repeats in its more general character, and in many 
-of its specific phenomena, the phylogenetic develoijment of the race. If we 
-admit the progressive nature of the changes of development, their simi- 
-larity in different groups, and their common characters in all animals, nay, 
-even in some respects in both plants and animals, we can scarcely refuse 
-to recognize the possibility of continuous derivation in the history of their 
-origin ; and however far we may be, by reason of the imperfection of our 
-knowledge of Palaeontology, Comparative Anatomy, and Embryology, from 
-realizing the precise nature of the chain of connexion by which the actual 
-descent has taken place, stiU there can be little doubt remaining in the minds 
-of any unprejudiced student of embryology that it is only by the employment 
-of such an hypothesis as that of Evolution that further investigation in these 
-several departments will be promoted, so as to bring us to a fuller compre- 
-hension of the most general law which regulates the adaptation of structnro 
-to function in the Universe. 
+I regard it, therefore, as no exaggerated representation of the present state of our knowledge to say that the ontogenetic development of the individual in the higher animals repeats in its more general character, and in many of its specific phenomena, the phylogenetic development of the race. If we admit the progressive nature of the changes of development, their similarity in different groups, and their common characters in all animals, nay, even in some respects in both plants and animals, we can scarcely refuse to recognize the possibility of continuous derivation in the history of their origin; and however far we may be, by reason of the imperfection of our knowledge of Palæontology, Comparative Anatomy, and Embryology, from realizing the precise nature of the chain of connexion by which the actual descent has taken place, still there can be little doubt remaining in the minds of any unprejudiced student of embryology that it is only by the employment of such an hypothesis as that of Evolution that further investigation in these several departments will be promoted, so as to bring us to a fuller comprehension of the most general law which regulates the adaptation of structure to function in the Universe.
