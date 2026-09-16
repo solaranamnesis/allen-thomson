@@ -130,454 +130,94 @@ The process of yolk-segmentation may at once be distinguished as of two kinds, a
 
 When, as before mentioned, the germinal vesicle has been in part extruded or lost to sight, the whole yolk-substance of the ovum forms a nearly uniform mass of finely granular protoplasm, enclosed within the external cell-membrane. Within a few hours later a clear nucleus has arisen in this mass. To this more definite form of organization assumed by the germinal substance of the future animal, which is about to be the subject of the segmenting process, the name of the first segment-sphere may be given.
 
-By the process of cleavage which now begins, this first segment- sphere 
-and its nucleus undergo division into two nucleated spheres of smaller size, 
-the whole substance of the yolk, in a holoblastic ovum, such as that of the 
-mammal, being_involved in the segmenting process. 
+By the process of cleavage which now begins, this first segment-sphere and its nucleus undergo division into two nucleated spheres of smaller size, the whole substance of the yolk, in a holoblastic ovum, such as that of the mammal, being involved in the segmenting process.
 
-The second stage of division follows after the lapse of a few hours, and 
-results in the formation of four nucleated segment-spheres ; and the process 
-of division being repeated in a certain definite order, there result in the 
-succeeding stages (that is, the third, fourth, fifth, and up to the tenth) the 
-numbers of 8, 12, 16, 24, 32, 48, 64, and 96 nucleated yolk-spheres, germ- 
-spheres, or formative cells. 
+The second stage of division follows after the lapse of a few hours, and results in the formation of four nucleated segment-spheres; and the process of division being repeated in a certain definite order, there result in the succeeding stages (that is, the third, fourth, fifth, and up to the tenth) the numbers of 8, 12, 16, 24, 32, 48, 64, and 96 nucleated yolk-spheres, germ-spheres, or formative cells.
 
-In the rabbit's ovum the tenth stage is reached in less than three days ; 
-and as during that time the size of the whole ovum has undergone very little 
-increase, it follows that the spheres of each succeeding set, as they become 
-more numerous, have diminished greatly in size. These segment-spheres 
-are all destitute of external membrane, but are distinctly nucleated ; and their 
-protoplasmic substance is more or less granular, presenting the usual histo- 
-logical characters of growing cells. 
+In the rabbit's ovum the tenth stage is reached in less than three days; and as during that time the size of the whole ovum has undergone very little increase, it follows that the spheres of each succeeding set, as they become more numerous, have diminished greatly in size. These segment-spheres are all destitute of external membrane, but are distinctly nucleated; and their protoplasmic substance is more or less granular, presenting the usual histological characters of growing cells.
 
-By the time that segmentation has reached the seventh or eighth stage, 
-when 32 or 48 spheres have been formed, the ovum has assumed the 
-appearance of a mulberry, in which the outer smaller spheres, closely massed 
-together, project slightly and uniformly over the whole surface ; while the 
-interior of the ball is filled with cells of a somewhat larger size and a more 
-opaque granular aspect, also resulting from the process of segmentation. 
+By the time that segmentation has reached the seventh or eighth stage, when 32 or 48 spheres have been formed, the ovum has assumed the appearance of a mulberry, in which the outer smaller spheres, closely massed together, project slightly and uniformly over the whole surface; while the interior of the ball is filled with cells of a somewhat larger size and a more opaque granular aspect, also resulting from the process of segmentation.
 
-Already, however, the mutual compression of the spheres or cells on the 
-surface, by their crowding together, has led to the flattening of their adjacent 
-sides ; and by the time the tenth stage is reached, when the whole number 
-of the cells is about 96, the more advanced superficial cells, having ranged 
-themselves closely together, form a nucleated cellular layer or covering of 
-the yolk, enclosing within them the larger and more opaque cells, derived 
-like the first from the segmenting process. In a more advanced stage, the 
-deej)er cells now referred to having taken the form of an internal layer, there 
-results at last the bilaminar blastoderm or embryonic germinal membrane. 
+Already, however, the mutual compression of the spheres or cells on the surface, by their crowding together, has led to the flattening of their adjacent sides; and by the time the tenth stage is reached, when the whole number of the cells is about 96, the more advanced superficial cells, having ranged themselves closely together, form a nucleated cellular layer or covering of the yolk, enclosing within them the larger and more opaque cells, derived like the first from the segmenting process. In a more advanced stage, the deeper cells now referred to having taken the form of an internal layer, there results at last the bilaminar blastoderm or embryonic germinal membrane.
 
-The process of partial segmentation, such as occurs in the bird's egg, 
-though perhaps fundamentally the same as that of the mammal previously 
-described, stands in a different relation to the parts of the whole yolk or 
-egg, and consequentlj' differs in its general phenomena. The segmentation 
+The process of partial segmentation, such as occurs in the bird's egg, though perhaps fundamentally the same as that of the mammal previously described, stands in a different relation to the parts of the whole yolk or egg, and consequently differs in its general phenomena. The segmentation is mainly restricted in the meroblastic ova of birds to the germinal disk or cicatricula, and does not immediately involve any part of the larger remainder of the yolk. This takes place during the time of the descent of the yolk through the oviduct, when the yolk is receiving the covering of the white or albumen, the membrane, and the shell, previous to being laid --- a process which, in the common domestic fowl, usually occupies less than twenty-four hours. Corresponding essentially to the more complete segmentation of the mammal's ovum, the process leads to the same result in the production of two layers of nucleated formative cells in the original seat of a protoplasmic disk --- a bilaminar blastoderm resulting as in the mammal's ovum, though in a somewhat different relation to the yolk.
 
-is mainly restricted in the meroblastic ova of birds to the germinal disk or 
-cicatricula, and does not immediately involve any part of the larger re- 
-mainder of the yolk. This takes place during the time of the descent of 
-the yolk through the oviduct, when the yolk is recemng the covering of the 
-white or albumen, the membrane, and the shell, previous to being laid --- a 
-process which, in the common domestic fowl, usually occupies less than 
-twenty-four hours. Corresponding essentially to the more complete segmen- 
-tation of the mammal's ovum, the process leads to the same result in the 
-production of two layers of nucleated formative cells in the original seat of 
-a protoplasmic disk --- a bilaminar blastoderm resulting as in the mammal's 
-ovum, though in a somewhat different relation to the yolk. 
+I will not fatigue you with a description of the details of these phenomena, interesting as they may be, but only mention generally that they consist in the formation of deep fissures with rounded edges running from the surface into the substance of the germ-disk. The first of these fissures crosses the disk in a determinate direction, dividing it into two nearly equal semicircular parts. In the next stage another fissure, crossing the first nearly at right angles, produces four angular segments. Then come four intervening radial fissures which subdivide the four segments into eight; and next afterwards the central angles of these eight radial segments are cut off from their peripheral portions by a different fissure, which may be compared to one of the parallels of latitude on the globe near the pole where the radial or _longitude_ fissures converge. And so thereafter, by the succession and alternation of radial and circular clefts (which, however, as they extend outwards, come soon to lose their regularity), the whole germinal disk is divided into the two layers of nucleated cells, constituting the blastoderma or germinal membrane of Pander and subsequent embryologists.* If a laid egg be subjected to the heat of incubation for eight or ten hours, the cicatricula, now converted into this segmented blastoderm, is found to be considerably expanded by a rapid multiplication of its constituent cells; and in as many more hours, by further changes in its substance, the first lineaments of the chick begin to make their appearance. Similar changes affect the blastoderm of the mammal; and thus it appears that the result of segmentation, in the bird as well as in the mammal and other animals, is the production of an organized laminar substratum, which is the seat of the subsequent embryonic development.
 
-I wUl not fatigue you with a description of the details of these phenomena, 
-interesting as they may be, but only mention generally that they consist in the 
-formation of deep fissures with rounded edges running from the surface into the 
-substance of the germ-disk. The first of these fissures crosses the disk in 
-a determinate direction, dividing it into two nearly equal semicircular parts. 
-In the next stage another fissure, crossing the first nearly at right angles, 
-produces four angular segments. Then come four intervening radial fissures 
-which subdivide the four segments into eight ; and next afterwards the central 
-angles of these eight radial segments are cut off from their peripheral portions 
-by a different fissui'e, which may be compared to one of the parallels of latitude 
-on the globe near the pole where the radial or longitude fissures converge. 
-And so thereafter, by the succession and alternation of radial and circular 
-clefts (which, however, as they extend outwards, come soon to lose their 
-regularity), the whole germinal disk is divided into the two layers of nucleated 
-cells, constituting the blastoderma or germinal membrane of Pander and 
-subsequent embryologists*. If a laid egg be subjected to the heat of 
-incubation for eight or ten hours, the cicatricula, now converted into this 
-segmented blastoderm, is found to be considerably expanded by a rapid 
-multiplication of its constituent cells ; and in as many more hours, by further 
-changes in its substance, the first lineaments of the chick begin to make their 
-appearance. Similar changes affect the blastoderm of the mammal ; and thus 
-it appears that the result of segmentation, in the bird as well as in the mammal 
-and other animals, is the production of an. organized laminar substratum, 
-which is the seat of the subsequent embryonic development. 
+*) The more exact nature of the process of segmentation was first made known by the interesting researches of Bagge in 1841, and more especially of Kölliker in 1843. The phenomena of complete segmentation were first fully described in the mammal's ovum in Bischoff's description of the development of the Rabbit, 1842, and followed out in his succeeding memoirs on the Dog, Guineapig, and Roedeer. The phenomena of partial segmentation were first made known, in their more exact form, by Kölliker's researches on the development of the Cephalopoda, published in 1844. In birds the process was first described by Bergmann in 1846, and more fully by Coste in 1848.
 
-I must stiU request your attention to some details connected with the 
-process of segmentation, which bear upon the question of the origin of the 
+I must still request your attention to some details connected with the process of segmentation, which bear upon the question of the origin of the new cells, and on which recent research has thrown a new and unexpected light.
 
-* The more exact nature of the process of segmentation was first made known by the 
-interesting researches of Bagge in 1841, and more especially of Kolliker in 1843. The phe- 
-nomena of complete segmentation were first fully described in the mammal's ovum in 
-Bischofif's description of the development of the Babbit, 1842, and followed out in his 
-succeeding memoirs on the Dog, Guineapig, and Eoedeer. The phenomena of partial 
-segmentation were first made known, in their more exact form, by Kolliker's researches 
-on the development of the Cephalopoda, published in 1844. In birds the process was 
-first described by Bergmann in 1846, and more fully by Coste in 1848. 
+With respect to the nature of the first segment-sphere of the ovum and the source of its nucleus, as well as of the other segment-spheres or cells which follow each other in the successive steps of germ-subdivision, it appears probable, from the researches of several independent observers, and more especially of Edward Van Beneden and Oscar Hertwig, that in the course of the extrusion of the germinal vesicle a small portion of it remains behind in the form of a minute mass of hyaline substance, to which Van Beneden has given the name of _pronucleus_, and that, as the result of the fertilizing process, there is formed a second similar hyaline globule or pronucleus, situated near the surface, which gradually travels towards the centre and unites with the first pronucleus, and that these two pronuclei, being fused together, form the true nucleus of the first segment-sphere. According to this view the original germinal vesicle, when it disappears or is lost to sight, as described by so many embryologists, is not dissipated, but only undergoes changes leading to the formation of the new and more highly endowed nucleus of the first embryonic or segmental sphere. It further appears that the subdivision of each segmenting mass is preceded by a change and division of the nucleus, and that this division of the nucleus is accompanied by the peculiar phenomenon of a double conical or spindle-shaped radial lineation of the protoplasm, which, if we were inclined to speculate as to its nature, seems almost as if it marked out the lines of molecular force acting in the organizing process. These lines, however, it will be understood, if visible with the microscope, even of the highest magnifying-power yet attained, belong to much larger particles than those of the supposed molecules of the physicist; but, considered in connexion with what we know of the movements which frequently precede the act of division of the yolk-spheres, we seem in this phenomenon to have made some near approach to the observation of the direction in which the molecular forces operating in organization may be supposed to act.*
 
-new cells, and on which recent research has thrown a new and unexpected 
-light. 
+*) The observations referred to above as to the division of the nucleus are so novel and of such deep interest that I am tempted to add here a short abstract of their more important results from a very clear account given of them by Dr. John Priestley, of Owens College, Manchester, in the 'Journal of Microscopical Science' for April 1876.  
+The researches now referred to are those of Auerbach, Butschli, Strasburger, Hertwig, and Edw. Van Beneden; and the following may be stated as the points in which they mainly agree:---  
+The nucleus when about to divide elongates into a spindle-shaped body, becomes irregular and indistinct, acquires a granular disk or zone in the plane of its equator; this divides into two, and each half moves towards the pole of the spindle on its own side, there being radiated lines of protoplasm between the poles and the equatorial disk.  
+The disk segments are the new nuclei, and the subsequent division of the cell takes place in the intermediate space.  
+Although these observers still differ in opinion upon some of the details of this process, and especially as to the fate of the germinal vesicle, all of them seem to agree that there are two pronuclei or distinct hyaline parts of the yolk-protoplasm, a superficial and a deep one, engaged in the formation of the new nucleus; and both Hertwig and Van Beneden are of opinion that the two proceed from different productive elements.  
+The radiated structure of the nuclei had been previously recognized by Fol and Flemming, and further observed by Oellacher.  
+1\. Butschli's researches are published in the Nov. Act. Nat.-Cur. 1873, and in the Zeitschr. für wissensch. Zool. vol. 25.  
+2\. Auerbach's observations in his Organolog. Studien, 1874.  
+3\. Strasburger's observations in his memoir 'Über Zellbildung und Zellteilung,' Jena, 1875.  
+4\. Edward Van Beneden's researches, partly in his memoir "On the Composition and Significance of the Egg," etc., presented to the Belgian Academy in 1868, and more particularly in the extremely interesting preliminary account of "Researches on the Development of Mammalia," etc., 1875, and in a separate paper in the Journ. of Microscopical Science for April 1876.  
+5\. Oscar Hertwig's memoirs are contained in the Morpholog. Jahrbuch, 1875, and his most interesting and novel observations in the same work, 1877.
 
-With respect to the nature of the first segment-sphere of the ovum and 
-the source of its nucleus, as well as of the other segment-spheres or cells 
-which follow each other in the successive steps of germ-subdivision, it appears 
-probable, from the researches of several independent observers, and more 
-especially of Edward Van Beneden and Oscar Hertwig, that in the course of 
-the extrusion of the germinal vesicle a small portion of it remains behind 
-in the form of a minute mass of hyaline substance, to which Van Beneden 
-has given the name of pronucleus, and that, as the result of the fertilizing 
-process, there is formed a second similar hyaline globule or pronucleus, 
-situated near the surface, which gradually travels towards the centre and 
-unites with the first pro nucleus, and that these two pronuclei, being fused 
-together, form the true nucleus of the first segment-sphere. According to 
-this view the original germinal vesicle, when it disappears or is lost to sight, 
-as described by so many embryologists, is not dissipated, but only undergoes 
-changes leading to the formation of the new and more highly endowed nucleus 
-of the first embryonic or segmental sphere. It further appears that the sub- 
-division of each segmenting mass is preceded by a change and division of 
-the nucleus, and that this division of the nucleus is accompanied by the pe- 
-culiar phenomenon of a double conical or spindle-shaped radial lineation of the 
-protoplasm, which, if we were inclined to speculate as to its nature, seems 
-almost as if it marked out the lines of molecular force acting in the organizing 
-process. These lines, however, it will be understood, if visible with the 
-microscope, even of the highest magnifying-power yet attained, belong to 
-much larger particles than those of the supposed molecules of the physicist ; 
-but, considered in connexion with what we know of the movements which 
-freqnently precede the act of division of the yolk-spheres, we seem in this 
-phenomenon to have made some near approach to the observation of the 
-direction in which the molecular forces operating in organization may be 
-supposed to act*. 
+With respect to the nature of the blastoderm, the organized cellular stratum resulting from segmentation, and its relation to the previous condition of the ovum on the one hand, and the future embryo on the other, there is presented to us, by modern research, the interesting view that the blastoderm consists, after completion of the segmenting process, of two layers of cells --- an outer or upper (usually composed of smaller, clearer, and more compact nucleated cells), named _ectoderm_ or _epiblast_, and an inner or lower (consisting of cells which are somewhat larger, more opaque and granular, but also nucleated), named _endoderm_ or _hypoblast_.
 
-With respect to the nature of the blastoderm, the organized cellular stratum 
-resulting from segmentation, and its relation to the previous condition of 
+In the meroblastic ova, such as those of birds, the bilaminar blastoderm is discoid and circumscribed as it lies on the yolk-surface, and only comes to envelop the whole of the food-yolk in the progress of later development; while in the holoblastic ova, and more especially in mammals, the blastoderm from the first extends over the whole surface of the yolk, and thus forms an entire covering of the yolk known as the "vesicular blastoderm," the space within being occupied by fluid.
 
-* The observations referred to above as to the division of the nucleus are so novel and 
-of such deep interest that I am tempted to add here a short abstract of their more im- 
-portant results from a very clear account given of them by Dr. John Priestley, of 
-Ovrens College, Manchester, in the ‘ Journal of Microscopical Science' for April 1876. 
+Huxley long ago presented the interesting view that these two layers are essentially the same, in their morphological relations and histological structure, as the double wall of the body in the simplest forms of animals above the Protozoa. Haeckel has more recently followed out this view, supporting it by his researches in the Calcareous Sponges, and has founded upon it his well-known _Gastræa_ theory. According to this view all animals take their origin from a form of _Gastrula_, or simple stomach-like cavity. In the lower tribes, as in the instance of the common freshwater polype or Hydra, they proceed no further than the Gastrula stage, unless by mere enlargement and slight differentiation of the two primitive layers of cells representing the persistent ectoderm and endoderm.*
 
-The researches now referred to are those of Auerbach, Butschli, Strasburger, Hertwig, 
-and Edw. Van Beneden ; and the following may be stated as the points in which they 
-mainly agree : --- 
+If, pursuing this idea, we take a survey of the whole animal kingdom in its long gradation of increasing complexity of form and structure from the simplest animal up to man himself, we find that all the various modifications of organic structure which present themselves are found, in the history of the individual or ontological development of the different members of the series, to spring originally from two cellular laminæ, ectoderm and endoderm, the component elements of which may again be traced back to the first segment-sphere and primitive protoplasmic elements of the ovum.
 
-The nucleus when about to divide elongates into a spindle-shaped body, becomes irregular 
-and indistinct, acquires a granular disk or zone in the plane of its equator ; this divides 
+Time does not admit of my conducting you through the chain of observation and reasoning by which Haeckel seeks to convince us of the universal applicability of his theory; but I cannot avoid calling your attention to the extremely interesting relation which has been shown to exist between the primary phases of development of the ovum and the foundation of the blastoderm in very different groups of animals, more especially by the researches of Haeckel himself, of Kowalevsky, Edward Van Beneden, and others, and which has received most efficient support from the investigations and writings of E. Ray Lankester in our own country; so that now we may indulge the well-grounded expectation that, notwithstanding the many and great difficulties which doubtless still present themselves in reconciling various forms with the general principle of the theory, we are at least in the track which may lead to a consistent view of the relations subsisting between the ontogenetic, or individual, and the phylogenetic, or race history of the formation of animals and of man.
 
-the ovum on the one hand, and the future embryo on the other, there is pre- 
-sented to us, by modern research, the interesting view that the blastoderm 
-consists, after completion of the segmenting process, of two layers of cells --- an 
-outer or upper (usually composed of smaller, clearer, and more compact 
-nucleated cells), named ectoderm or epiblast, and an inner or lower (consisting 
-of cells which are somewhat larger, more opaque and granular, but also 
-nucleated), named endoderm or hypoblast. 
+In all animals, then, above the Protozoa, the ovum presents, in some form or other, the bilaminar structure of ectoderm and endoderm at a certain stage of its development, this structure resulting from a process of segmentation or cell-cleavage; and there are three principal modes in which the double condition of the layers is brought about. In one of these it is by inward folding or invagination of a part of the single layer of cells immediately resulting from the process of segmentation that the doubling of the layers is produced; in the second, perhaps resolvable into the first, it may be described rather as a process of enclosure of one set of cells within another; while in the third the segmented cells, arranged as a single layer round a central cavity of the ovum, divide themselves later into two layers. But the distinction of ectodermic and endodermic layers of cells is maintained, whether it be primitive and manifested from a very early period, or acquired later by a secondary process of differentiation. Thus in many Invertebrates, as also in _Amphioxus_ among the Vertebrates, a distinct invagination occurs, while in Mammals, as recently shown by Van Beneden's most interesting observations in the rabbit's ovum, and probably also in some invertebrates, the cells of the ectoderm gradually spread over those of the endoderm during the progress of segmentation, and thus the endodermic comes to be enclosed by the ectodermic layer of cells.
 
-In the meroblastic ova, such as those of birds, the bilaminar blastoderm 
-is discoid and circumscribed as it lies on the yolk-surface, and only comes 
-to envelop the whole of the food-yolk in the progress of later development ; 
-while in the holoblastic ova, and more especially in mammals, the blastoderm 
-from the first extends over the whole surface of the yolk, and thus forms an 
-entire covering of the yolk known as the " vesicular blastoderm," the space 
-within being occupied by fiuid. 
+*) At this place I will only refer to one of the most recent of Haeckel's works, in which the views alluded to above are fully exposed in a series of most interesting memoirs, viz. 'Studien zur Gastræa-Theorie,' Jena, 1877; and to Dr. E. Percival Wright's translation of the account of Haeckel's views in Journ. of Microsc. Science, vol. 14. 1874.
 
-Huxley long ago presented the interesting view that these two layers are 
-essentially the same, in their morphological relations and histological structure, 
-as the double wall of the body in the simplest forms of animals above the 
-Protozoa. Haeckel has more recently followed out this view, supporting it by 
-his researches in the Calcareous Sponges, and has founded upon it his well- 
-known Gastrcea theory. According to this view all animals take their origin 
-from a form of Oastrula, or simple stomach-like cavity. In the lower tribes, 
-as in the instance of the common freshwater polype or Hydra, they proceed no 
-further than the Gastrula stage, unless by mere enlargement and slight differ- 
+From the very novel and unexpected observations of Van Beneden it further appears that from the earliest period in the process of segmentation in the mammal's ovum it is possible to perceive a distinction of two kinds of segment-spheres or cells, and that when this process is traced back to its first stage it is found that the whole of the cells belonging to the ectoderm are the progeny of, or result from the division of the upper of the two first formed segments, and that the whole of the endodermic cells are the descendants of the lower of the two first segmented cells. This, however, is not an isolated fact belonging only to mammalian development, but one which very nearly repeats a process ascertained to occur in a considerable number of the lower animals, and it seems to promise the means of greatly advancing the comprehension of the whole process of blastodermic formation. Thus ectoderm and endoderm, which are in fact the primordial rudiments of the future animal and vegetative systems of the embryo, are traced back as distinct from each other to the first stage of segmentation of the germ.
 
+Accepting these facts as ascertained, they may be regarded as of the deepest significance in the phylogenetic history of animals; for they appear to open up the prospect of our being able to trace transitions between the earliest embryonic forms occurring in the most different kinds of ova, as between the discoid or meroblastic and the vesicular or holoblastic, through the intermediate series which may be termed amphiblastic ova.*
 
-into two, and each half moves towards the pole of the spindle on its own side, there being 
-radiated lines of protoplasm between the poles and the equatorial disk. 
+*) I ought here to refer to the elaborate memoirs of Professor Semper on the morphological relations of the Vertebrate and Invertebrate animals, contained in the 'Arbeiten aus dem Zoolog.-zootom. Institut in Würzburg,' 1875 and 1876, in which the conclusions arrived at do not coincide with the views above stated.
 
-The disk segments are the new nuclei, and the subsequent division of the cell takes 
-place in the intermediate space. 
+In the lowest animals, the two layers already mentioned, viz. ectoderm and endoderm, are the only ones known to constitute the basis of developmental organization; but as we rise in the scale of animals we find a new feature appearing in their structure, which is repeated also in the history of the formation of the blastoderm in the higher animals up to man. This consists in the formation of an intermediate layer or layers constituting the _mesoderm_, with which, in by far the greater number, is connected the formation of some of the most important bodily structures, such as the osseous, muscular, and vascular systems.
 
-Although these observers still differ in opinion upon some of the details of this process, 
-and especially as to the fate of the germinal vesicle, all of them seem to agree that there 
-are two pronuclei or distinct hyaline parts of the yolk-protoplasm, a superficial and a 
-deep one, engaged in the formation of the new nucleus ; and both Hertwig and Van Bene- 
-den are of opinion that the two proceed from different productive elements. 
+I will not stop to discuss the very difficult question of the first origin of the mesoderm, upon which embryologists are not yet entirely agreed, but will only remark that a view originally taken of this subject by the acute Von Baer appears more and more to gain ground; and it is this --- that the mesoderm, arising as a secondary structure, that is, later than the two primary layers of ectoderm and endoderm (corresponding to the serous and mucous layers of Pander), is probably connected with or derived from both of these primitive layers, a view which it will afterwards appear is equally important ontogenetically and phylogenetically.
 
-The radiated structure of the nuclei had been previously recognized by Fol and Flem- 
-ming, and further observed by Oellacher. 
+But whatever may be the first origin of the mesoblast, we know that in the Vertebrata this layer, separating from between the other two, and acquiring rapidly by its cell-multiplication larger proportions and much greater complexity than belongs to either ectoderm or endoderm, speedily undergoes further subdivision and differentiation in connexion with the appearance of the embryonic organs which arise from it, and in this respect contrasts greatly with the simplicity of structure which remains in the developed parts of the ectodermic and endodermic layers. Thus, while the ectoderm supplies the formative materials for the external covering or epidermis, together with the rudiments of the central nervous organs and principal sense-organs, and the endoderm by itself only gives rise to the epithelial lining of the alimentary canal and the cellular part of the glands connected with it, the mesoblast is the source of far more numerous and complex parts, viz. the whole of the true skin or corium, the vertebral column and osseous system, the external voluntary muscles and connective tissue, the muscular walls of the alimentary canal, the heart and blood-vessels, the kidneys, and the reproductive organs, thus forming much the greatest bulk of the body in the higher animals.
 
-1. Butschli's researches are published in the Nov. Act. Nat.-Cur. 1873, and in the 
-Zeitschr. fiir wissensch. Zool. vol. xxv. 
+There is, however, a peculiarity in the mode of the earliest development of the mesoblast which is of great importance in connexion with the general history of the disposition of parts in the animal body, to which I must now refer. This consists in the division of the mesoblast in all but its central part into two laminæ, an outer or upper and an inner or lower, and the separation of these by an interval or cavity which corresponds to the space existing between the outer wall of our bodies and the deeper viscera, and which, from the point of view of the vertebrate animals is called the pleuro-peritoneal cavity, but, viewed in the more extended series of animals down to the Annuloida, may receive the more general appellation of pleuro-splanchnic or parieto-visceral cavity, or, shortly, the _cœlom_. Thus, from an early period in the vertebrate embryo, and in a considerable number of the invertebrate, a division of the mesoderm takes place into the somatopleural or outer lamina and the splanchnopleural or inner lamina --- the outer being the seat of formation of the dermal, muscular, and osseous systems (the voluntomotory of Remak), and the inner of the muscular wall of the alimentary canal, as well as of the contractile substance of the heart and the vascular system generally.
 
-2. Auerbach's observations in his Organolog. Studien, 1874. 
+It is interesting to find that there is a correspondence between the later division of the mesoderm of the higher animals derived from the two primitive blastodermic laminæ and the original absence of mesodermic structure in the lowest animals, followed by the gradual appearance, first of one layer (the external muscular in the higher Cœlenterata), and soon afterwards by the two divisions or laminæ with the intermediate cœlom.
 
-3. Strasburger's observations in his memoir ‘ Ueber ZeUbildung und Zelltheilung,' 
-Jena, 1875. 
+In this account of what may be termed the organized foundation of the new being, I have entered into some detail, because I felt that our conception of any relation subsisting between the ontogenetic history of animals and their phylogenetic evolution can only be formed from the careful study of the earliest phenomena of embryonic organization. Notwithstanding the many difficulties which unquestionably still block the way, I am inclined to think that there is great probability in the view of a common bilaminar origin for the embryo of all animals above the Protozoa, and that the vertebrate equally with the invertebrate animals may be shown to possess, in the first stages of their blastodermic or embryonic formation, the two primitive layers of ectoderm and endoderm.*
 
-4. Edward Van Beneden's researches, partly in his memoir " On the Composition and 
-Significance of the Egg," &c., presented to the Belgian Academy in 1868, and more parti- 
-cularly in the extremely interesting prehminary account of " Eesearches on the Develop- 
-ment of Mammalia," &c., 1875, and in a separate paper in the Journ. of Microscopical 
-Science for April 1876. 
+*) If we reserve the words ectoderm and endoderm to designate the two layers of the primary bilaminar blastoderm, we may apply the terms epiblast and hypoblast to their derivatives after the formation of the mesoderm, and indicate the relations of the whole to the secondary or quadrilaminar blastoderm by the following Table:---  
+|          |                                 |           |
+|----------|---------------------------------|-----------|
+| ~        | Primary Blastoderm              | ~         |
+| Ectoderm |                                 | Endoderm  |
+| ~        | Mesoderm                        | ~         |
+| Epiblast | (Somatopleure, Splanchnopleure) | Hypoblast |
+| ~        | Secondary Blastoderm            | ~         |
 
-5. Oscar Hertwig's memoirs are contained in the Morpholog. Jahrbuch, 1875, and his 
-most interesting and novel observations in the same work, 1877. 
+To attempt, however, to pursue the history of the development of animals in detail would be equivalent to inflicting upon you a complete system of human and comparative anatomy. But I cannot leave the subject abruptly without an endeavour to point out in the briefest possible manner the bearing of some of the leading facts in embryology upon the general relation of ontogeny and phylogeny.
 
-entiatiou of the two primitive layers of cells representing the persistent 
-ectoderm and endoderm *, 
+We are here brought into the contemplation of those remarkable changes, all capable of being observed and demonstrated, by which the complex organization of the body of man and animals is gradually built up out of the elementary materials furnished by the blastodermic layers --- a process which has been looked upon by all those who have engaged in its study with the greatest interest and admiration. By comparing these phenomena as observed in individuals belonging to different classes and orders of animals, it is found that not only are they not different, but, on the contrary, that they present features of the most remarkable resemblance and conformity, and we are led to the conclusion that there is a general plan of development proved to extend to the members of considerable groups, and possibly capable of being traced from one group to another; this being in fact equivalent to the statement that there is a similar type of structure pervading the animals of each group, and a probability of a common type being ascertained to belong to them all. The main question, therefore, to be answered is whether there is or is not a general correspondence between the phenomena of development and the gradation of type in animal structure upon which anatomists and zoologists are agreed; and my object will now be to bring rapidly before you one or two of the most marked illustrations of the correspondence, drawn from the early history of development in the higher animals.
 
-If, pursuing this idea, we take a survey of the whole animal kingdom 
-iu its long gradation of increasing complexity of form and structure from the 
-simplest animal up to man himself, we find that all the various modifications 
-of organic structure which present themselves are found, in the history of the 
-individual or ontological development of the different members of the series, 
-to spring originally from two cellular laminae, ectoderm and endoderm, the 
-component elements of which may again he traced back to the first segment- 
-sphere and primitive protoplasmic elements of the ovum. 
+As one of the examples of the earlier phenomena of development I may refer to the change which is perceptible as early as the 18th or 20th hour of incubation in the chick, and which is reproduced in the course of development of every member of the Vertebrate subkingdom. It consists in the formation of cross clefts on each side of the primitive neural cavity, which divide off from each other a number of segments of this wall in the length of the axis of the embryo. At first there are only one or two such clefts; but they rapidly increase in a backward direction in the body of the embryo, and as development proceeds they extend into the tail itself. These are the _protovertebræ_ of embryologists --- not corresponding, as might at first be supposed, with the true or actual vertebræ which are formed later, but representing in an interesting manner transverse _vertebral segments_ of the body, and containing within each the elements of the several structures belonging to the body-wall afterwards to be developed, including the true cartilaginous or osseous vertebral arches and the muscular plates.
 
-Time does not admit of my conducting you through the chain of observa- 
-tion and reasoning by which Haeckel seeks to convince us of the universal 
-applicability of his theory ; but I cannot avoid calling your attention to the 
-extremely interesting relation which has been shown to exist between the 
-primary phases of development of the ovum and the foundation of the blasto- 
-derm in very different groups of animals, more especially by the researches 
-of Haeckel himself, of Kowalevsky, Edward Van Beneden, and others, and 
-which has received most efficient support from the investigations and writings 
-of E. Bay Lankester in our own country ; so that now we may indulge 
-the well-grounded expectation that, notwithstanding the many and great 
-difficulties which doubtless still present themselves in reconciling various 
-forms with the general principle of the theory, we are at least in the track 
-which may lead to a consistent view of the relations subsisting between the 
-ontogenetic, or individual, and the phylogenetic, or race history of the fo)-- 
-mation of animals and of man. 
+This change, however, belongs to the mesodermic lamina, and occurs in an elongated thick portion of it, which makes its appearance on each side of the primitive neural canal between the epiblast and the hypoblast. The transverse cleavage is ascertained to commence near what afterwards forms the first cervical vertebra, but does not extend into the base of the cranium. And it is most interesting to note in this cleavage the formation at so early a period of the succession of _metameres_ or series of similar parts, which forms a main characteristic of vertebral organization.
 
-In all animals, then, above the Protozoa, the ovum presents, in some form 
-or other, the bilaminar structure of ectoderm and endoderm at a certain 
-stage of its development, this structure resulting from a process of segmen- 
-tation or cell-cleavage ; and there are three principal modes in which the 
-double condition of the layers is brought about. In one of these it is by 
-inward folding or invagination of a part of the single layer of cells immediately 
-resulting from the process of segmentation that the doubling of the layers is 
-produced ; in the second, perhaps resolvable into the first, it may be described 
-rather as a process of enclosure of one set of cells within another ; while in 
-the third the segmented cells, arranged as a single layer round a central 
-cavity of the ovum, divide themselves later into two layers. But the dis- 
-tinction of ectodermic and endodermic layers of cells is maintained, whether 
-it be primitive and manifested from a very early period, or acquired later by 
-a secondary process of differentiation. Thus in many Invertebrates, as also 
+As intimately connected with the formation of the vertebral column, the appearance of the chorda dorsalis or _notochord_ presents many points of peculiar interest in embryological inquiries.
 
-* At this place I will only refer to one of the most recent of Haeckel's works, in which 
-the views alluded to above are fully exposed in a series of most interesting memoirs, vir. 
-‘ Studien zur Gastrsea-Theorie,' Jena, 1877 ; and to Di\ E. Percival Wright's translation 
-of the account of Haeckel's views in Jouru. of Microsc. Science, vol. xiv. 1874. 
+The notochord is a continuous median column or thread of cellular structure running nearly the whole length of the rudimentary body of the embryo, and lying immediately below the cerebro-spinal canal. It occupies, in fact, the centre of the future bodies of the vertebræ. It exists as a primordial structure in the embryo of all Vertebrates, including man himself and extending down to the Amphioxus, and, according to the remarkable discovery of Kowalevsky in 1866, it is to be found among the Invertebrates in the larva of the Ascidia.*
 
-in Araphioxus among the Vertebrates, a distinct invagination occurs, while 
-in Mammals, as recently shown by Van Beneden's most interesting observa- 
-tions in the rabbit's ovum, and probably also in some invertebrates, the cells 
-of the ectoderm gradually spread over those of the endoderm during the pro- 
-gress of segmentation, and thus the endodermic comes to be enclosed by the 
-ectodermic layer of cells. 
+*) Mém. de l'Acad. de St. Pétersbourg, vol. 10.
 
-From the very novel and unexpected observations of Van Beneden it further 
-appears that from the earliest period in the process of segmentation in the 
-mammal's ovum it is possible to perceive a distinction of two kinds of seg- 
-ment-spheres or cells, and that when this process is traced back to its first 
-stage it is found that the whole of the cells belonging to the ectoderm are the 
-progeny of, or result from the division of the upper of the two first formed 
-segments, and that the whole of the endodermic cells are the descendants of 
-the lower of the two first segmented cells. This, however, is not an isolated 
-fact belonging only to mammalian development, but one which very nearly 
-repeats a process ascertained to occur in a considerable number of the lower 
-animals, and it seems to promise the means of greatly advancing the compre- 
-hension of the whole process of blastodermic formation. Thus ectoderm and 
-endoderm, which are in fact the primordial rudiments of the future animal 
-and vegetative systems of the embryo, are traced back as distinct from each 
-other to the first stage of segmentation of the germ. 
-
-Accepting these facts as ascertained, they may be regarded as of the deepest 
-significance in the phylogenetic historj" of animals ; for they appear to open 
-up the prospect of our being able to trace transitions between the earliest 
-embryonic forms occurring in the most different kinds of ova, as between the 
-discoid or meroblastic and the vesicular or holoblastic, through the inter- 
-mediate series which may be termed amphiblastie ova*. 
-
-In the lowest animals, the two layers already mentioned, viz. ectoderm 
-and endoderm, are the only ones known to constitute the basis of develop- 
-mental organization ; but as we rise in the scale of animals we find a new 
-feature appearing in their structure, which is repeated also in the history of 
-the formation of the blastoderm in the higher animals up to man. This 
-consists in the formation of an intermediate layer or layers constituting the 
-mesoderm, with which, in by far the greater number, is connected the forma- 
-tion of some of the most important bodily structures, such as the osseous, 
-muscular, and vascular systems. 
-
-I will not stop to discuss the very difiicult question of the first origin of the 
-mesoderm, upon which embryologists are not yet entirely agreed, but will 
-
-* I ought here to refer to the elaborate memoirs of Professor Semper on the morpho- 
-logical relations of the Vertebrate and Invertebrate animals, contained in tlie ‘ Arbeiten 
-aus dem Zoolog. -zoolom. Institut in Wiirzburg,' 1875 and 1876, in which the conclusions 
-arrived at do not coincide with tlie views above stated. 
-
-only remark that a view originally taken of this subject by the acute Von 
-Baer appears more and more to gain ground ; and it is this --- that the meso- 
-derm, arising as a secondary structure, that is, later than the two primary 
-layers of ectoderm and endoderm (corresponding to the serous and mucous 
-layers of Pander), is probably connected with or derived from both of these 
-primitive layers, a view which it will afterwards appear is equally important 
-ontogenetically and phylogenetically. 
-
-But whatever may be the first origin of the mesohlast, we know that in 
-the Vertebrata this layer, separating from between the other two, and 
-acquiring rapidly by its cell-multiplication larger proportions and much 
-greater complexity than belongs to either ectoderm or endoderm, speedily 
-undergoes further subdivision and differentiation in connexion with the 
-appearance of the embryonic organs which arise from it, and in this respect 
-contrasts greatly with the simplicity of structure which remains in the 
-developed parts of the ectodermic and endodermic layers. Thus, while 
-the ectoderm supplies the formative materials for the external covering or 
-epidermis, together with the rudiments of the central nervous organs and 
-principal sense-organs, and the endoderm by itself only gives rise to the 
-epithelial lining of the alimentary canal and the cellular part of the glands 
-connected with it, the mesohlast is the source of far more numerous and 
-complex parts, viz. the whole of the true skin or corium, the vertebral 
-column and osseous system, the external voluntary muscles and connective 
-tissue, the muscular walls of the alimentary canal, the heart and blood- 
-vessels, the kidneys, and the reproductive organs, thus forming much the 
-greatest bulk of the body in the higher animals. 
-
-There is, however, a peculiarity in the mode of the earliest development 
-of the mesohlast which is of great importance in connexion with the general 
-history of the disposition of parts in the animal body, to which I must now 
-refer. This consists in the division of the mesohlast in all but its central 
-part into two laminae, an outer or upper and an inner or lower, and the separa- 
-tion of these by an interval or cavity which corresponds to the space existing 
-between the outer wall of our bodies and the deeper viscera, and which, from 
-the point of view of the vertebrate animals is called the pleuro-peritoneal 
-cavity, but, viewed in the more extended series of animals down to the Annu- 
-loida, may receive the more general appellation of pleuro-splanchnic or 
-parieto-visceral cavity, or, shortly, the coelom. Thns, from an early period 
-in the vertebrate embryo, and in a considerable number of the invertebrate, 
-a division of the mesoderm takes place into the somatopleural or outer 
-lamina and the splanchnopleural or inner lamina --- the outer being the seat 
-of formation of the dermal, muscular, and osseous systems (the volunto- 
-motory of Bemak), and the inner of the muscular wail of the alimentary 
-canal, as well as of the contractile substance of the heart and the vascular 
-system generally. 
-
-It ia interesting to find that there is a correspondence between the 
-later division of the mesoderm of the higher animals derived from the two 
-primitive blastodermic laminae and the original absence of mesodermic 
-structure in the lowest animals, followed by the gradual appearance, 
-first of one layer (the external muscular in the higher Ccelenterata), and 
-soon afterwards by the two divisions or laminae with the intermediate 
-ccelom. 
-
-In this account of what may be termed the organized foundation of the 
-new being, I have entered into some detail, because I felt that our conception 
-of any relation subsisting between the ontogenetic history of animals and 
-their phylogenetic evolution can only be formed from the careful study 
-of the earliest phenomena of embryonic organization. Notwithstanding the 
-many difficulties which unquestionably still block the way, I am inclined 
-to think that there is great probability in the view of a common bilaminar 
-origin for the embryo of all animals above the Protozoa, and that the 
-vertebrate equally with the invertebrate animals may he shown to possess, 
-in the first stages of their blastodermic or embryonic formation, the two 
-primitive layers of ectoderm and endoderm*. 
-
-
-To attempt, however, to pursue the history of the development of animals 
-in detail would he equivalent to inflicting upon you a complete system of 
-human and comparative anatomy. But I cannot leave the subject abruptly 
-without an endeavour to point out in the briefest possible manner the bearing 
-of some of the leading facts in embryology upon the general relation of onto- 
-geny and phylogeny. 
-
-We are here brought into the contemplation of those remarkable changes, 
-all capable of being observed and demonstrated, by which the complex 
-organization of the body of man and animals is gradually built up out of the 
-elementary materials furnished by the blastodermic layers --- a process which 
-has been looked upon by all those who have engaged in its study with the 
-greatest interest and admiration. By comparing these phenomena as observed 
-in individuals belonging to diff'erent classes and orders of animals, it is 
-found that not only are they not different, but, on the contrary, that 
-they present features of the most remarkable resemblance and conformity, 
-and we are led to the conclusion that there is a general plan of development 
-proved to extend to the members of considerable groups, and possibly capable 
-
-
-* If we reserve the words ectoderm and endoderm to designate the two layers of the 
-primary bilaminar blastoderm, we may apply the terms epiblast and hypoblast to their 
-derivatives after the formation of the mesoderm, and indicate the relations of the whole 
-to the secondary or quadrilaininar blastoderm by the following Table : --- 
-
-
-of being traced from one group to another ; this being in fact equivalent to the 
-statement that there is a similar type of structure pervading the animals 
-of each group, and a probability of a common type being ascertained 
-to belong to them all. The main question, therefore, to be answered is 
-whether there is or is not a general correspondence between the phenomena 
-of development and the gradation of type in animal structure upon which 
-anatomists and zoologists are agreed ; and my object will now be to bring 
-rapidly before you one or two of the most marked illustrations of the 
-correspondence, drawn from the early history of development in the higher 
-animals. 
-
-As one of the examples of the earlier phenomena of development I may 
-refer to the change which is perceptible as early as the 18th or 20th hour 
-of incubation in the chick, and which is reproduced in the course of develop- 
-ment of every member of the Vertebrate subkingdom. It consists in the 
-formation of cross clefts on each side of the primitive neural cavity, which 
-divide off from each other a number of segments of this wall in the length 
-of the axis of the embryo. At first there are only one or two such clefts ; 
-hut they rapidly increase in a backward direction in the body of the embryo, 
-and as development proceeds they extend into the tail itself. These 
-are the protovertehrce of embryologists --- not corresponding, as might at 
-first be supposed, with the true or actual vertebrae which are formed later, 
-blit representing in an interesting manner transverse vertebral segments 
-of the body, and containing within each the elements of the several 
-structures belonging to the body-wall afterwards to be developed, in- 
-cluding the true cartilaginous or osseous vertebral arches and the muscular 
-plates. 
-
-This change, however, belongs to the mesodermic lamina, and occurs 
-in an elongated thick portion of it, which makes its appearance on each 
-side of the primitive neural canal between the epiblast and the hypoblast. 
-The transverse cleavage is ascertained to commence near what afterwards 
-forms the first cervical vertebra, but does not extend into the base of the 
-cranium. And it is most interesting to note in this cleavage the formation 
-at so early a period of the succession of metameres or series of similar parts, 
-which forms a main characteristic of vertebral organization. 
-
-As intimately connected with the formation of the vertebral column, the 
-appearance of the chorda dorsalis or notochord presents many points of 
-peculiar interest in embryological inquiries. 
-
-The notochord is a continuous median column or thread of cellular struc- 
-ture running nearly the whole length of the rudimentary body of the 
-embryo, and lying immediately below the cerebro-spinal canal. It occupies, 
-in fact, the centre of the future bodies of the vertebrae. It exists as a pri- 
-mordial structure in the emhryo of all Vertebrates, including man himself and 
-extending down to the Amphioxus, and, according to the remarkable discovery 
-
-of Kowalevsky in 1866, it is to be found among the Invertebrates in the 
-larva of the Ascidia*. 
-
-In Amphioxus and the Cyclostomatous Fishes the notochord, growing with 
-the rest of the body into a highly developed form, acts as a substitute for the 
-pillar of the bodies of the vertebrae, no vertebral bodies being developed ; but 
-in Cartilaginous and Osseous Fishes various gradations of cartilaginous and 
-osseous structures come to surround the notochord and give rise to the simpler 
-forms of vertebral bodies, which undergo more and more distinct development 
-in the higher vertebrates. In all instances the substance forming the vertebral 
-bodies is deposited on the surface of or outside the notochord and its sheath, 
-so that this body remains for a time as a vestigial structure within the 
-vertebral bodies of the higher animals. 
+In Amphioxus and the Cyclostomatous Fishes the notochord, growing with the rest of the body into a highly developed form, acts as a substitute for the pillar of the bodies of the vertebræ, no vertebral bodies being developed; but in Cartilaginous and Osseous Fishes various gradations of cartilaginous and osseous structures come to surround the notochord and give rise to the simpler forms of vertebral bodies, which undergo more and more distinct development in the higher vertebrates. In all instances the substance forming the vertebral bodies is deposited on the surface of or outside the notochord and its sheath, so that this body remains for a time as a vestigial structure within the vertebral bodies of the higher animals.
 
 The ohservations of Kowalevsky with respect to the existence of a notochord 
 in the Ascidia, which have been confirmed by Kupfer and others, have pro- 
@@ -609,7 +249,7 @@ example of the correspondence in the development of the individual and the
 race, in that all the stages which have been referred to as occurring in the 
 gradual evolution of the vertebral column in the series of Vertebrates are 
 
-* M6m. de I'Acad. de St. Petersbourg, vol. x. 
+
 
 + See tlie interesting and valuable memoirs of W. K. Parker, " On the Anatomy and 
 Development of the Vertebrate Skull," in Trans, of Eoy. Soc., the researches of Gegenbaur, 
