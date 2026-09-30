@@ -245,13 +245,13 @@ I regard it, therefore, as no exaggerated representation of the present state of
 [^9]: I ought here to refer to the elaborate memoirs of Professor Semper on the morphological relations of the Vertebrate and Invertebrate animals, contained in the 'Arbeiten aus dem Zoolog.-zootom. Institut in Würzburg,' 1875 and 1876, in which the conclusions arrived at do not coincide with the views above stated.
 
 [^10]: If we reserve the words ectoderm and endoderm to designate the two layers of the primary bilaminar blastoderm, we may apply the terms epiblast and hypoblast to their derivatives after the formation of the mesoderm, and indicate the relations of the whole to the secondary or quadrilaminar blastoderm by the following Table:—  
-|          |                                 |           |
-|----------|---------------------------------|-----------|
-| ~        | Primary Blastoderm              | ~         |
-| Ectoderm |                                 | Endoderm  |
-| ~        | Mesoderm                        | ~         |
-| Epiblast | (Somatopleure, Splanchnopleure) | Hypoblast |
-| ~        | Secondary Blastoderm            | ~         |
+  |          |                                 |           |
+  |----------|---------------------------------|-----------|
+  | ~        | Primary Blastoderm              | ~         |
+  | Ectoderm |                                 | Endoderm  |
+  | ~        | Mesoderm                        | ~         |
+  | Epiblast | (Somatopleure, Splanchnopleure) | Hypoblast |
+  | ~        | Secondary Blastoderm            | ~         |
 
 [^11]: Mém. de l'Acad. de St. Pétersbourg, vol. 10.
 
